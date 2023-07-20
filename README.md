@@ -6,3 +6,4 @@ today i learned
 - js vs jsx
 - proof of concept (POC)
 - webpack 4 code spliting
+- contenthash, chunkhash
