@@ -5,3 +5,4 @@ today i learned
 - reportWebVitals
 - js vs jsx
 - proof of concept (POC)
+- webpack 4 code spliting
