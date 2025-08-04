@@ -1,9 +1,7 @@
 # til
+
 today i learned
 
-- tree shaking
-- reportWebVitals
-- js vs jsx
-- proof of concept (POC)
-- webpack 4 code spliting
-- contenthash, chunkhash
+## 2025
+
+- [동시성-1](/2025/250804_transition-1.md)
