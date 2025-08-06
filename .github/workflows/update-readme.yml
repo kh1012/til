@@ -1,0 +1,30 @@
+name: Update README.md with Directory Tree
+
+on:
+  push:
+    branches:
+      - main # main 브랜치에 푸시될 때마다 실행
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 리포지토리 코드 체크아웃
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # 2. 디렉토리 트리 생성 및 README.md 파일 업데이트
+      - name: Generate Directory Tree and Update README.md
+        run: |
+          # 디렉토리 트리 생성 스크립트 실행 (Node.js 예시)
+          npm install axios
+          node generateTree.js
+
+      # 3. 업데이트된 README.md를 커밋
+      - name: Commit updated README.md
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "kh1012"
+          author_email: "kh1012@midasit.com"
+          message: "Update directory tree in README.md"
