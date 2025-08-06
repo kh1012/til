@@ -17,7 +17,6 @@ jobs:
       # 2. 디렉토리 트리 생성 및 README.md 파일 업데이트
       - name: Generate Directory Tree and Update README.md
         run: |
-          # 디렉토리 트리 생성 스크립트 실행 (Node.js 예시)
           npm install axios
           node generateTree.js
 
