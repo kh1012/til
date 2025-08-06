@@ -30,10 +30,10 @@ async function generateTree(path = "", indent = "") {
     }
 
     if (file.type === "dir") {
-      tree += `${indent}[${file.name}](${file.html_url})\n`; // 디렉토리 링크
+      tree += `${indent}[${file.name}](${file.html_url})<br />`; // 디렉토리 링크 + <br />로 줄 바꿈
       tree += await generateTree(file.path, indent + "  "); // 서브 디렉토리 재귀 호출
     } else {
-      tree += `${indent}  ㄴ[${file.name}](${file.html_url})\n`; // 파일 링크
+      tree += `${indent}  ㄴ[${file.name}](${file.html_url})<br />`; // 파일 링크 + <br />로 줄 바꿈
     }
   }
 
@@ -41,13 +41,13 @@ async function generateTree(path = "", indent = "") {
 }
 
 async function updateReadme() {
-  let readmeContent = "## Directory Tree\n\n";
+  let readmeContent = "## Directory Tree<br /><br />";
 
   // 루트 디렉토리 목록에 대해 트리 생성
   for (const rootDir of rootDirectories) {
-    readmeContent += `### ${rootDir}\n\n`;
+    readmeContent += `### ${rootDir}<br /><br />`;
     const tree = await generateTree(rootDir); // 지정된 루트 디렉토리만 트리로 생성
-    readmeContent += tree + "\n\n"; // 각 루트 디렉토리의 트리를 추가
+    readmeContent += tree + "<br /><br />"; // 각 루트 디렉토리의 트리를 추가
   }
 
   // README.md 파일 업데이트
