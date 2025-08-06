@@ -28,3 +28,5 @@ jobs:
           author_name: "kh1012"
           author_email: "kh1012@midasit.com"
           message: "Update directory tree in README.md"
+          # 'GITHUB_TOKEN'을 사용하여 인증
+          token: ${{ secrets.GITHUB_TOKEN }}
