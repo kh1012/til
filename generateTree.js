@@ -5,10 +5,10 @@ const owner = "kh1012";
 const repo = "til";
 const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/`;
 
-// 루트 디렉토리 설정
-const rootDirectories = ["2025"]; // 예시로 2025, 2024, 2026 디렉토리만 트리로 생성
+// 루트 디렉토리 설정: 2025만 포함
+const rootDirectories = ["2025"]; // 2025 디렉토리만 트리로 생성
 
-// Ignore할 디렉토리 리스트
+// Ignore할 디렉토리 리스트: node_modules와 .github만 제외
 const ignoreList = ["node_modules", ".github"];
 
 // 인증을 위해 헤더에 Personal Access Token 추가
@@ -30,10 +30,10 @@ async function generateTree(path = "", indent = "") {
     }
 
     if (file.type === "dir") {
-      tree += `${indent}[${file.name}](${file.html_url})<br />`; // 디렉토리 링크 + <br />로 줄 바꿈
+      tree += `${indent}[${file.name}](${file.html_url})<br />\n`; // 디렉토리 링크 + <br />로 줄 바꿈
       tree += await generateTree(file.path, indent + "  "); // 서브 디렉토리 재귀 호출
     } else {
-      tree += `${indent}  ㄴ[${file.name}](${file.html_url})<br />`; // 파일 링크 + <br />로 줄 바꿈
+      tree += `${indent}  ㄴ[${file.name}](${file.html_url})<br />\n`; // 파일 링크 + <br />로 줄 바꿈
     }
   }
 
@@ -41,13 +41,13 @@ async function generateTree(path = "", indent = "") {
 }
 
 async function updateReadme() {
-  let readmeContent = "## Directory Tree<br /><br />";
+  let readmeContent = ""; // 헤더 제거, 트리만 추가
 
-  // 루트 디렉토리 목록에 대해 트리 생성
+  // 루트 디렉토리 목록에 대해 트리 생성 (2025만 포함)
   for (const rootDir of rootDirectories) {
-    readmeContent += `### ${rootDir}<br /><br />`;
+    readmeContent += `[${rootDir}](${apiUrl}${rootDir})<br />`; // 루트 디렉토리 링크
     const tree = await generateTree(rootDir); // 지정된 루트 디렉토리만 트리로 생성
-    readmeContent += tree + "<br /><br />"; // 각 루트 디렉토리의 트리를 추가
+    readmeContent += tree + "<br />"; // 각 루트 디렉토리의 트리를 추가
   }
 
   // README.md 파일 업데이트
