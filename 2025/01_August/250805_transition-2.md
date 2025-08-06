@@ -12,7 +12,7 @@
 - ✅ [레인의 구현방식](#레인의-구현방식)
 - ✅ [비트연산](#레인-모델이-비트-연산을-사용하는-이유)
 - ✅ [우선순위](#이벤트와-레인의-우선순위)
-- 🚧 [Expiration Time 모델의 한계와 레인모델의 장점]()
+- ✅ [Expiration Time 모델의 한계와 레인모델의 장점](#expiration-time-모델의-한계와-레인-모델의-장점)
 - 🚧 [레인모델이 동시성을 지원하는 방식]()
 - 🚧 [만료시간 관리]()
 - 🚧 [얽힘(Entanglement) 메커니즘]()
@@ -103,4 +103,110 @@ const OffscreenLane: Lane = /*                   */ 0b10000000000000000000000000
 - 이벤트 우선순위: 사용자 이벤트의 중요도를 나타냄.
 - 스케줄러 우선순위: 스케줄러에서 작업 예약 시 사용되는 우선순위임.
 - 위 3가지 우선순위 시스템은 서로 연결되어 있으며, Lane 우선순위를 이벤트 우선순위로 변환하고 다시 스케줄러 우선순위로 매핑하여 작업을 처리함.
-- ...
+- 먼저 이벤트 우선순위는 특정 레인 값에 매핑 됨.
+https://github.com/facebook/react/blob/f9d78089c6ec8dce3a11cdf135d6d27b7a8dc1c5/packages/react-reconciler/src/ReactEventPriorities.js#L24C1-L28C58
+```ts
+export const NoEventPriority: EventPriority = NoLane;
+export const DiscreteEventPriority: EventPriority = SyncLane;
+export const ContinuousEventPriority: EventPriority = InputContinuousLane;
+export const DefaultEventPriority: EventPriority = DefaultLane;
+export const IdleEventPriority: EventPriority = IdleLane;
+```
+- 레인에서 이벤트 우선순위로의 변환은 lanesToEventPriority 함수를 통해 이루어짐.
+https://github.com/facebook/react/blob/707b3fc6b2d7db1aaea6545e06672873e70685d5/packages/react-reconciler/src/ReactEventPriorities.js#L55-L67
+```ts
+export function lanesToEventPriority(lanes: Lanes): EventPriority {
+  const lane = getHighestPriorityLane(lanes);
+  if (!isHigherEventPriority(DiscreteEventPriority, lane)) {
+    return DiscreteEventPriority;
+  }
+  if (!isHigherEventPriority(ContinuousEventPriority, lane)) {
+    return ContinuousEventPriority;
+  }
+  if (includesNonIdleWork(lane)) {
+    return DefaultEventPriority;
+  }
+  return IdleEventPriority;
+}
+```
+- lanesToEventPriority 함수는 lanes 집합에서 가장 높은 우선순위를 찾아 해당하는 이벤트 우선순위로 매핑!
+- IdleWork이 포함되어 있지 않다면, DefaultEventPriority로 매핑 됨. (TransitionLane)
+- 이는 UI 전환 작업이 사용자 직접 입력 보다는 낮지만 백그라운드 작업보다는 높은 우선순위로 처리되어야 함을 시사함.
+- 사용자 직접 입력 >>> UI 전환 >>> 백그라운드 작업 순.
+- 우선순위 체계는 다양한 작업의 중요도를 효과적으로 관리, 사용자 경험을 최적화 하면서도 시스템 성능을 유지할 수 있게함.
+- 키보드 입력, 클릭과 같은 사용자 상호작용은 높은 우선순위 (즉각적인 반응성 보장)
+- 페이지 전환과 같은 작업은 중간 우선순위
+- 데이터 프리페칭과 같은 작업은 낮은 우선순위
+
+- 특정 업데이트를 낮은 우선순위로 전환하는 `startTransition` API를 사용하는 이벤트 핸들러!
+```ts
+function handleSearch(e) {
+  // 이벤트 핸들러는 DefaultEventPriority로 실행됨
+  setSearchQuery(e.target.value); // 즉시 업데이트 (SyncLane)
+  
+  startTransition(() => {
+    // 이 안의 상태 업데이트는 TransitionLane으로 처리됨
+    setSearchResults(searchData(e.target.value)); // 지연된 업데이트
+  });
+}
+```
+
+- startTransition 내부의 상태 업데이트에는 TransitionLane이 할당 됨. (상태 업데이트 낮은 우선순위로 배치)
+- 하지만 이벤트 핸들러 자체는 DefaultEventPriority로 처리 됨. (이벤트 핸들러 우선순위 Default, 높은 수준 즉각적인 반응)
+- 결국 실행은 바로 되는데, 상태 업데이트 및 렌더링 우선순위는 낮음.
+- 이 두 우선순위(이벤트 핸들러와 상태 업데이트) 시스템의 분리는 이벤트 처리와 렌더링을 더 세밀하게 제어할 수 있게 해줌.
+- React가 마치 멀티스레드 환경처럼, 동작하면서도 사용자 경험을 우선시할 수 있는 이유임.
+
+## Expiration Time 모델의 한계와 레인 모델의 장점
+- 레인 모델 이전에는 Expiration Time 모델을 사용 했음.
+- 해당 모델에서는 각 업데이트에 시간 기반의 만료시간을 할당하여 작업 우선순위와 배치 처리를 모두 결정함.
+- Expiration Time에서는 각 작업에 만료 시간을 할당하고, 이 값에 기반해 우선순위와 배치 처리를 결정함.
+- 만료 시간은 우선순위에 영향을 미치고, 이 값이 낮은 우선순위를 갖게 되면 다른 작업이 먼저 처리될 수 있음.
+- 예를 들어, 높은 우선순위를 가진 CPU Bound 작업(버튼 클릭)와 낮은 우선순위를 가진 IO Bound 작업(데이터 패칭)이 있을 경우,
+- setTimeout을 통해 데이터 패칭을 강제로 지연시키면, 버튼 클릭과 동시에 지속해서 UI가 업데이트 되어야 하는 상황에도,
+- 여러번 클릭하게 되면 그 만큼 데이터 페칭이 계속 실행되어 UI 업데이트가 지연되는 우선순위 역전의 상황이 발생 됨.
+```ts
+import React, { useState, useEffect } from 'react';
+
+function App() {
+  const [buttonColor, setButtonColor] = useState("blue");
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  // CPU Bound 작업 (UI 렌더링)
+  const handleButtonClick = async () => {
+    console.log("UI 렌더링 시작");
+    await fetchData();
+    setButtonColor("green");  // 즉시 UI 변경
+    console.log("UI 렌더링 끝");
+  };
+
+  // I/O Bound 작업 (데이터 패칭)
+  const fetchData = async () => {
+    setLoading(true);
+    console.log("데이터 패칭 시작");
+    
+    // 네트워크 요청을 시뮬레이션하기 위해 지연 발생 (3초)
+    await new Promise(resolve => setTimeout(resolve, 3000));  // 3초 대기
+    
+    setData("서버에서 받은 데이터");
+    setLoading(false);
+    console.log("데이터 패칭 끝");
+  };
+
+  return (
+    <div>
+      <button onClick={handleButtonClick} style={{ backgroundColor: buttonColor }}>
+        버튼 클릭
+      </button>
+
+      {loading ? <p>데이터를 불러오는 중...</p> : <p>{data}</p>}
+    </div>
+  );
+}
+
+export default App;
+```
+- 작위적이긴 하지만 렌더링 블로킹을 강제해서 페칭이 끝나야만, UI가 업데이트 될 수 있도록 만든 코드임.
+- 우선순위에 대한 조작을 개발자가 직접 제어할 수 없었던 것에 비해, 레인모델은 32비트 정수와 비트 연산을 활용하여 더 세밀한 우선순위 제어를 가능하게 함.
+- 각 업데이트는 고유한 레인에 할당이 되고, 이를 통해 서로다른 유형의 작업을 독립적으로 스케줄링 할 수 있음.
