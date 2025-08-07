@@ -2,7 +2,7 @@
 
 > [StudyURL](https://backlinko.com/hub/seo/core-web-vitals)
 >
-> - 🚧 [Core Web Vitals?](#core-web-vitals-1)
+> - ✅ [Core Web Vitals?](#core-web-vitals-1)
 > - 🚧 [LCP]()
 > - 🚧 [INP]()
 > - 🚧 [CLS]()
