@@ -3,4 +3,5 @@
     ㄴ[250805_transition-2.md](https://github.com/kh1012/til/blob/main/2025/01_August/250805_transition-2.md)<br />
     ㄴ[250806_transition-3.md](https://github.com/kh1012/til/blob/main/2025/01_August/250806_transition-3.md)<br />
     ㄴ[250807_core-web-vitals-1.md](https://github.com/kh1012/til/blob/main/2025/01_August/250807_core-web-vitals-1.md)<br />
+    ㄴ[250808_core-web-vitals-2.md](https://github.com/kh1012/til/blob/main/2025/01_August/250808_core-web-vitals-2.md)<br />
 <br />
