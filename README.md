@@ -1,5 +1,5 @@
-[2025](https://api.github.com/repos/kh1012/til/contents/2025)<br />[00_Typescript_Essential](https://github.com/kh1012/til/tree/main/2025/00_Typescript_Essential)<br />
-    ㄴ[250825_필기.md](https://github.com/kh1012/til/blob/main/2025/00_Typescript_Essential/250825_%ED%95%84%EA%B8%B0.md)<br />
+[2025](https://api.github.com/repos/kh1012/til/contents/2025)<br />[00_js_ts_essential](https://github.com/kh1012/til/tree/main/2025/00_js_ts_essential)<br />
+    ㄴ[250825_필기.md](https://github.com/kh1012/til/blob/main/2025/00_js_ts_essential/250825_%ED%95%84%EA%B8%B0.md)<br />
 [01_August](https://github.com/kh1012/til/tree/main/2025/01_August)<br />
     ㄴ[250804_transition-1.md](https://github.com/kh1012/til/blob/main/2025/01_August/250804_transition-1.md)<br />
     ㄴ[250805_transition-2.md](https://github.com/kh1012/til/blob/main/2025/01_August/250805_transition-2.md)<br />
