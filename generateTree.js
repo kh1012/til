@@ -68,6 +68,18 @@ function sortByDate(files) {
   });
 }
 
+// 특정 파일명이면 필터링 하는 함수
+function filterFiles(files) {
+  return files.filter((file) => {
+    // .md 확장자만 허용
+    if (!file.name.endsWith(".md")) {
+      return false;
+    }
+
+    return true;
+  });
+}
+
 async function updateReadme() {
   let readmeContent = "# TIL (Today I Learned)\n\n";
 
@@ -81,8 +93,11 @@ async function updateReadme() {
     // 날짜순으로 정렬
     const sortedFiles = sortByDate(allFiles);
 
+    // 특정 파일명이면 필터링
+    const filteredFiles = filterFiles(sortedFiles);
+
     // 정렬된 파일 목록 생성
-    for (const file of sortedFiles) {
+    for (const file of filteredFiles) {
       readmeContent += `- [${file.name}](${file.html_url})\n`;
     }
 
