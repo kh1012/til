@@ -56,7 +56,7 @@ function sortByDate(files) {
     const dateB = b.name.match(/^(\d{6})/);
 
     if (dateA && dateB) {
-      return dateA[1].localeCompare(dateB[1]);
+      return dateB[1].localeCompare(dateA[1]); // 역순 정렬을 위해 b와 a의 순서를 바꿈
     }
 
     // 날짜가 없는 파일은 뒤로
