@@ -18,10 +18,11 @@ const headers = {
   Accept: "application/vnd.github.v3+json",
 };
 
-async function generateTree(path = "", indent = "") {
+// 모든 파일을 수집하는 함수
+async function collectAllFiles(path = "") {
   const res = await axios.get(apiUrl + path, { headers });
   const files = res.data;
-  let tree = "";
+  let allFiles = [];
 
   for (const file of files) {
     // Ignore List에 포함된 디렉토리는 건너뜁니다.
@@ -30,30 +31,68 @@ async function generateTree(path = "", indent = "") {
     }
 
     if (file.type === "dir") {
-      tree += `${indent}[${file.name}](${file.html_url})<br />\n`; // 디렉토리 링크 + <br />로 줄 바꿈
-      tree += await generateTree(file.path, indent + "  "); // 서브 디렉토리 재귀 호출
+      // 서브 디렉토리의 파일들도 수집
+      const subFiles = await collectAllFiles(file.path);
+      allFiles = allFiles.concat(subFiles);
     } else {
-      tree += `${indent}  ㄴ[${file.name}](${file.html_url})<br />\n`; // 파일 링크 + <br />로 줄 바꿈
+      // 파일 정보를 추가 (경로와 함께)
+      allFiles.push({
+        name: file.name,
+        path: file.path,
+        html_url: file.html_url,
+        fullPath: path ? `${path}/${file.name}` : file.name,
+      });
     }
   }
 
-  return tree;
+  return allFiles;
+}
+
+// 날짜순으로 정렬하는 함수
+function sortByDate(files) {
+  return files.sort((a, b) => {
+    // 파일명에서 날짜 추출 (25XXXX 형식)
+    const dateA = a.name.match(/^(\d{6})/);
+    const dateB = b.name.match(/^(\d{6})/);
+
+    if (dateA && dateB) {
+      return dateA[1].localeCompare(dateB[1]);
+    }
+
+    // 날짜가 없는 파일은 뒤로
+    if (!dateA && !dateB) return a.name.localeCompare(b.name);
+    if (!dateA) return 1;
+    if (!dateB) return -1;
+
+    return 0;
+  });
 }
 
 async function updateReadme() {
-  let readmeContent = ""; // 헤더 제거, 트리만 추가
+  let readmeContent = "# TIL (Today I Learned)\n\n";
 
-  // 루트 디렉토리 목록에 대해 트리 생성 (2025만 포함)
+  // 루트 디렉토리 목록에 대해 파일 수집
   for (const rootDir of rootDirectories) {
-    readmeContent += `[${rootDir}](${apiUrl}${rootDir})<br />`; // 루트 디렉토리 링크
-    const tree = await generateTree(rootDir); // 지정된 루트 디렉토리만 트리로 생성
-    readmeContent += tree + "<br />"; // 각 루트 디렉토리의 트리를 추가
+    readmeContent += `## ${rootDir}\n\n`;
+
+    // 모든 파일 수집
+    const allFiles = await collectAllFiles(rootDir);
+
+    // 날짜순으로 정렬
+    const sortedFiles = sortByDate(allFiles);
+
+    // 정렬된 파일 목록 생성
+    for (const file of sortedFiles) {
+      readmeContent += `- [${file.name}](${file.html_url})\n`;
+    }
+
+    readmeContent += "\n";
   }
 
   // README.md 파일 업데이트
   const readmePath = "./README.md";
   fs.writeFileSync(readmePath, readmeContent);
-  console.log("README.md has been updated.");
+  console.log("README.md has been updated with date-sorted file list.");
 }
 
 updateReadme();
