@@ -49,7 +49,7 @@ function newsFeed() {
       <div class="p-4 mt-6 bg-white shadow-md rounded-lg transition-colors duration-500 hover:bg-green-100">
         <div class="flex">
           <div class="flex-auto">
-            <a href="#/show/#${newsFeed[i].id}">${newsFeed[i].title}</a>
+            <a href="#/show/${newsFeed[i].id}">${newsFeed[i].title}</a>
           </div>
 
           <div class="text-center text-sm">
@@ -83,13 +83,36 @@ function newsDetail() {
 
   const newsContent = getData(CONTENT_URL.replace("@id", id));
 
-  container.innerHTML = `
-    <h1>${newsContent.title}</h1>
+  let template = `
+    <div class="bg-gray-600 min-h-screen pb-8">
+      <div class="bg-white text-xl">
+        <div class="mx-auto px-4">
+          <div class="flex justify-between items-center py-6">
+            <div class="flex justify-start">
+              <h1 class="font-extrabold">Hacker News</h1>
+            </div>
 
-    <div>
-      <a href="#/page/${store.currentPage}">목록으로</a>
+            <div class="flex items-center justify-end">
+              <a href="#/page/${store.currentPage}" class="text-gray-500">
+                <i class="fas fa-times"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="h-full border bg-white rounded-lg m-6 p-4">
+        <h2>${newsContent.title}</h2>
+        <div class="text-gray-500 h-20">
+          ${newsContent.content}
+        </div>
+
+        {{__comments__}}
+      </div>
     </div>
   `;
+
+  container.innerHTML = template;
 }
 
 function router() {
