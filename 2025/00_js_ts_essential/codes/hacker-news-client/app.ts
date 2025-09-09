@@ -36,11 +36,33 @@ const store: Store = {
   feeds: [],
 };
 
-function getData<AjaxResponse>(url: string): AjaxResponse {
-  ajax.open("GET", url, false);
-  ajax.send();
+class Api {
+  url: string;
+  ajax: XMLHttpRequest;
 
-  return JSON.parse(ajax.response);
+  constructor(url: string) {
+    this.url = url;
+    this.ajax = new XMLHttpRequest();
+  }
+
+  protected getRequest<AjaxResponse>(): AjaxResponse {
+    this.ajax.open("GET", this.url, false);
+    this.ajax.send();
+
+    return JSON.parse(this.ajax.response);
+  }
+}
+
+class NewsFeedApi extends Api {
+  getData(): NewsFeed[] {
+    return this.getRequest<NewsFeed[]>();
+  }
+}
+
+class NewsDetailApi extends Api {
+  getData(id: string): NewsDetail {
+    return this.getRequest<NewsDetail>();
+  }
 }
 
 function makeFeeds(feeds: NewsFeed[]): NewsFeed[] {
@@ -60,6 +82,7 @@ function updateView(html: string): void {
 }
 
 function newsFeed() {
+  const api = new NewsFeedApi(NEWS_URL);
   let newsFeed: NewsFeed[] = store.feeds;
   const newsList: string[] = [];
   let template: string = `
@@ -90,7 +113,7 @@ function newsFeed() {
   `;
 
   if (newsFeed.length === 0) {
-    newsFeed = store.feeds = makeFeeds(getData(NEWS_URL));
+    newsFeed = store.feeds = makeFeeds(api.getData());
   }
 
   for (let i = (store.currentPage - 1) * 10; i < store.currentPage * 10; i++) {
@@ -136,10 +159,9 @@ function newsFeed() {
 
 function newsDetail() {
   const id = location.hash.substr(7);
+  const api = new NewsDetailApi(CONTENT_URL.replace("@id", id));
 
-  const newsContent: NewsDetail = getData<NewsDetail>(
-    CONTENT_URL.replace("@id", id)
-  );
+  const newsContent: NewsDetail = api.getData(id);
 
   let template = `
     <div class="bg-gray-600 min-h-screen pb-8">
