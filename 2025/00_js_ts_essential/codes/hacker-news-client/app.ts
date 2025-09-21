@@ -27,6 +27,11 @@ interface NewsComment extends News {
   readonly level: number;
 }
 
+interface RouteInfo {
+  path: string;
+  page: View;
+}
+
 const container: HTMLElement | null = document.getElementById("root");
 const ajax: XMLHttpRequest = new XMLHttpRequest();
 const NEWS_URL = "https://api.hnpwa.com/v0/news/1.json";
@@ -70,6 +75,12 @@ class NewsDetailApi {
     return this.getRequest<NewsDetail>(CONTENT_URL.replace("@id", id));
   }
 }
+
+class View {}
+
+class NewsFeedView extends View {}
+
+class NewsDetailView extends View {}
 
 interface NewsFeedApi extends Api {}
 interface NewsDetailApi extends Api {}
