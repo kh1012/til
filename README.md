@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [250909_상속과믹스인.md](https://github.com/kh1012/til/blob/main/2025/02_September/250909_%EC%83%81%EC%86%8D%EA%B3%BC%EB%AF%B9%EC%8A%A4%EC%9D%B8.md)
 - [250826_필기.md](https://github.com/kh1012/til/blob/main/2025/00_js_ts_essential/250826_%ED%95%84%EA%B8%B0.md)
 - [250826_test_연구.md](https://github.com/kh1012/til/blob/main/2025/01_August/250826_test_%EC%97%B0%EA%B5%AC.md)
 - [250825_필기.md](https://github.com/kh1012/til/blob/main/2025/00_js_ts_essential/250825_%ED%95%84%EA%B8%B0.md)
