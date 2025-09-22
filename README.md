@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [250922_handleBars.md](https://github.com/kh1012/til/blob/main/2025/02_September/250922_handleBars.md)
 - [250921_Async_Await.md](https://github.com/kh1012/til/blob/main/2025/02_September/250921_Async_Await.md)
 - [250921_믹스인_실무용.md](https://github.com/kh1012/til/blob/main/2025/02_September/250921_%EB%AF%B9%EC%8A%A4%EC%9D%B8_%EC%8B%A4%EB%AC%B4%EC%9A%A9.md)
 - [250921_클래스_getter_setter.md](https://github.com/kh1012/til/blob/main/2025/02_September/250921_%ED%81%B4%EB%9E%98%EC%8A%A4_getter_setter.md)
