@@ -1,18 +1,21 @@
-const tree = {
-    value: 1,
-    children: [
-        { value: 2, children: [{ value: 4, children: [] }, { value: 5, children: []}]},
-        { value: 3, children: [{ value: 6, children: [] }, { value: 7, children: []}]},
-    ]
-}
+const graph = {
+    A: ["B", "C"],
+    B: ["D", "E"],
+    C: ["F", "G"],
+    D: [],
+    E: [],
+    F: [],
+    G: [],
+};
 
-function dfs(node) {
-    // if (!node) return;
-    console.log(node.value);
+function dfs(node, visited = new Set()) {
+    if (visited.has(node)) return;
+    console.log(node);
+    visited.add(node);
 
-    for (const child of node.children) {
-        dfs(child);
+    for (const neighbor of graph[node]) {
+        dfs(neighbor, visited);
     }
 }
 
-dfs(tree);
+dfs("A");
