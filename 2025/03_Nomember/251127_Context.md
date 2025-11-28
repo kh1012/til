@@ -1,3 +1,12 @@
+---
+title: "Tailwind v4로 팀 디자인 시스템 정비하기"
+date: "2025-11-26"
+type: "post"
+tags: ["frontend", "tailwind"]
+summary: "팀 스타일 시스템을 Tailwind v4 기준으로 다시 설계한 과정."
+featured: true
+---
+
 # Context && tanstack-query mutate && Tailwind
 
 ## 1) 실행 컨텍스트 관점 재정리
