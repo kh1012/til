@@ -1,13 +1,7 @@
----
-title: "Tailwind v4로 팀 디자인 시스템 정비하기"
-date: "2025-11-26"
-type: "post"
-tags: ["frontend", "tailwind"]
-summary: "팀 스타일 시스템을 Tailwind v4 기준으로 다시 설계한 과정."
-featured: true
----
-
-# Context && tanstack-query mutate && Tailwind
+# Execution Context
+깊이를 알기 위해선, 기본에 집중해야 맞다.  
+데이터 타입, 복사에 대한 메모리 개념, 참조형과 기본형, 그리고 컨텍스트 레벨까지.  
+어찌보면 간단해 보이는 개념이 기초가 되면, 복잡한 수준의 문제를 해결하는데 이해가 수반된다.  
 
 ## 1) 실행 컨텍스트 관점 재정리
 - 실행 컨텍스트는 결국 "함수를 실행하기 위해 필요한 모든 환경 정보"를 한데 묶어둔 공간이다.
