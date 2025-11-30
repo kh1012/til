@@ -3,7 +3,7 @@ type: "skill"
 domain: "frontend"
 category: "javascript"
 topic: "execution-context"
-updatedAt: "2025-11-30"
+updatedAt: "2025-11-27"
 
 keywords:
   - "execution-context"
