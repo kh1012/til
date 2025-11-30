@@ -1,3 +1,24 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "async-await"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "XMLHttpRequest"
+  - "fetch"
+  - "Promise"
+  - "async"
+  - "await"
+  - "event-loop"
+  - "Promise.all"
+  - "callback"
+
+relatedCategories:
+  - "typescript"
+---
+
 # 서론
 
 XHR -> fetch로의 API 변화  

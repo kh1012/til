@@ -1,3 +1,27 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "execution-context"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "execution-context"
+  - "lexical-environment"
+  - "scope-chain"
+  - "hoisting"
+  - "tanstack-query"
+  - "mutate"
+  - "tailwindcss"
+  - "@theme"
+  - "@layer"
+
+relatedCategories:
+  - "react"
+  - "tanstack-query"
+  - "tailwindcss"
+---
+
 # Execution Context
 깊이를 알기 위해선, 기본에 집중해야 맞다.  
 데이터 타입, 복사에 대한 메모리 개념, 참조형과 기본형, 그리고 컨텍스트 레벨까지.  

@@ -1,3 +1,25 @@
+---
+type: "skill"
+domain: "frontend"
+category: "typescript"
+topic: "class-getter-setter"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "class"
+  - "getter"
+  - "setter"
+  - "implements"
+  - "interface"
+  - "mixin"
+  - "abstract"
+  - "encapsulation"
+
+relatedCategories:
+  - "javascript"
+  - "oop"
+---
+
 # 서론
 
 클래스에 대해 조금만 더 깊게 파고들어보자.  

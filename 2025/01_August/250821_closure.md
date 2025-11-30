@@ -1,3 +1,20 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "closure"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "closure"
+  - "scope-chain"
+  - "encapsulation"
+  - "garbage-collector"
+
+relatedCategories:
+  - "typescript"
+---
+
 # Closure (클로저)
 
 ```ts

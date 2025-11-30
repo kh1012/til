@@ -1,3 +1,21 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "function-declaration-expression"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "function-declaration"
+  - "function-expression"
+  - "hoisting"
+  - "closure"
+  - "callback"
+
+relatedCategories:
+  - "typescript"
+---
+
 # 함수 선언과 함수 표현식의 차이
 
 ## Function Declaration (함수 선언)

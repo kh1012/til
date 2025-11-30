@@ -1,3 +1,21 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "handlebars-template"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "handlebars"
+  - "template-engine"
+  - "innerHTML"
+  - "regex"
+  - "naming-convention"
+
+relatedCategories:
+  - "html"
+---
+
 # 서론
 
 template을 통한 innerHtml을 주입할 때 사용하는 handleBars와 \*.template.ts 템플릿 컨벤션, 그리고 RegEx에 대해 간단히 기술해보고자 한다.

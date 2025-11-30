@@ -1,3 +1,20 @@
+---
+type: "skill"
+domain: "frontend"
+category: "performance"
+topic: "core-web-vitals-lcp"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "Core-Web-Vitals"
+  - "LCP"
+  - "Largest-Contentful-Paint"
+  - "performance"
+
+relatedCategories:
+  - "seo"
+---
+
 # Core Web Vitals <br />
 
 > [StudyURL](https://backlinko.com/hub/seo/core-web-vitals)

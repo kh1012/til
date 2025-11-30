@@ -1,3 +1,21 @@
+---
+type: "skill"
+domain: "frontend"
+category: "javascript"
+topic: "for-await-of"
+updatedAt: "2025-11-30"
+
+keywords:
+  - "for-await-of"
+  - "AsyncIterable"
+  - "AsyncGenerator"
+  - "Promise"
+  - "streaming"
+
+relatedCategories:
+  - "typescript"
+---
+
 # JavaScript `for await...of` 문
 
 ## 정의
