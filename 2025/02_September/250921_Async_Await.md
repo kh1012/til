@@ -19,11 +19,10 @@ relatedCategories:
   - "typescript"
 ---
 
-# 서론
+# Async/Await와 비동기 처리의 진화
 
-XHR -> fetch로의 API 변화  
-Promise 객체를 통한 체이닝, 그리고 async / await까지의 전반적인 변화를 보고 이해할 필요성이 있어 해당 문서를 작성함.  
-먼저 각 개념을 정의하고 XHR(XMLHttpRequest)와 fetch API의 각 정의와 차이를 먼저 이해해보자.
+XHR에서 fetch로, 콜백에서 Promise로, 그리고 async/await까지 JavaScript 비동기 처리의 전반적인 변화를 정리한다.  
+각 개념의 정의와 차이, 그리고 이벤트 루프와 블로킹의 관계를 이해해보자.
 
 # XHR (XMLHttpRequest)
 

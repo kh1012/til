@@ -17,6 +17,11 @@ relatedCategories:
 
 # Closure (클로저)
 
+클로저는 함수가 선언될 때의 스코프 체인을 기억하여 외부 변수에 접근할 수 있게 하는 JavaScript의 핵심 개념이다.  
+클래스 등장 이전에 변수의 독립성과 은닉을 구현하기 위한 기법으로 널리 사용되었다.
+
+## 기본 예시
+
 ```ts
 function createClosure() {
     let count = 0;

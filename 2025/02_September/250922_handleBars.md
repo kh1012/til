@@ -16,11 +16,12 @@ relatedCategories:
   - "html"
 ---
 
-# 서론
+# HandleBars & Template Convention
 
-template을 통한 innerHtml을 주입할 때 사용하는 handleBars와 \*.template.ts 템플릿 컨벤션, 그리고 RegEx에 대해 간단히 기술해보고자 한다.
+template을 통한 innerHTML을 주입할 때 사용하는 HandleBars와 `*.template.ts` 템플릿 컨벤션에 대해 정리한다.  
+HandleBars는 템플릿 엔진으로, HTML 문서 안에서 변수나 로직을 간단히 끼워넣을 수 있게 해준다.
 
-# HandleBars
+## HandleBars
 
 핸들바스는 쉽게 말해, 템플릿 엔진이다.  
 HTML 같은 문서 안에서 변수나 로직을 간단히 끼워넣을 수 있는 도구  

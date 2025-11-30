@@ -19,7 +19,10 @@ relatedCategories:
   - "performance"
 ---
 
-# 동시성 (React 18)
+# React 18 동시성 - 레인 모델
+
+React의 레인(Lane) 모델 구현 방식, 비트 연산을 사용한 우선순위 관리, 이벤트와 레인의 우선순위 매핑을 정리한다.  
+32비트 정수로 구현된 레인 시스템이 어떻게 작업의 중요도를 관리하는지 이해할 수 있다.
 
 > 학습 URL: https://tech.remember.co.kr/%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EA%B2%BD%ED%97%98%ED%95%98%EB%8A%94-react-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%A7%88%EB%B2%95-5ff18aee148d
 

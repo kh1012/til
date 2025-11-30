@@ -19,7 +19,10 @@ relatedCategories:
   - "performance"
 ---
 
-# 동시성 (React 18)
+# React 18 동시성 - 개요
+
+React가 동시성을 연구한 이유와 브라우저 렌더링 블로킹 문제의 해결 방법을 정리한다.  
+디바운싱/스로틀링의 한계를 넘어, 즉각적인 반응과 지연 상태 변화를 구분하는 동시성 렌더링의 핵심을 이해한다.
 
 > 학습 URL: https://tech.remember.co.kr/%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EA%B2%BD%ED%97%98%ED%95%98%EB%8A%94-react-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%A7%88%EB%B2%95-5ff18aee148d
 

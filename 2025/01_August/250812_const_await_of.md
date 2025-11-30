@@ -16,7 +16,10 @@ relatedCategories:
   - "typescript"
 ---
 
-# JavaScript `for await...of` 문
+# for await...of 문
+
+비동기 iterable(AsyncIterable) 객체의 값을 순차적으로 처리하는 for await...of 반복문을 정리한다.  
+네트워크 요청, 파일 읽기, 데이터 스트리밍 등 비동기 데이터 소스를 단계별로 안전하게 처리할 수 있다.
 
 ## 정의
 

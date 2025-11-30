@@ -19,7 +19,10 @@ relatedCategories:
   - "performance"
 ---
 
-# 동시성 (React 18)
+# React 18 동시성 - 심화
+
+레인 모델이 동시성을 지원하는 방식, 만료시간 관리, 얽힘(Entanglement) 메커니즘을 정리한다.  
+useDeferredValue와 useTransition API의 차이점과 사용 시점을 이해하면 복잡한 UI 업데이트를 효율적으로 처리할 수 있다.
 
 > 학습 URL: https://tech.remember.co.kr/%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EA%B2%BD%ED%97%98%ED%95%98%EB%8A%94-react-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%A7%88%EB%B2%95-5ff18aee148d
 

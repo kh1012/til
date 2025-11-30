@@ -18,6 +18,9 @@ relatedCategories:
 
 # 함수 선언과 함수 표현식의 차이
 
+함수 선언(Function Declaration)과 함수 표현식(Function Expression)의 차이점을 정리한다.  
+호이스팅 동작 방식의 차이와 각각의 사용 사례(클로저, 콜백)를 이해하면 안정적인 코드 작성에 도움이 된다.
+
 ## Function Declaration (함수 선언)
 ```ts
 function summation(a: number, b: number): number {

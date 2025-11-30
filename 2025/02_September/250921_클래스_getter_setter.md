@@ -20,15 +20,10 @@ relatedCategories:
   - "oop"
 ---
 
-# 서론
+# 클래스의 getter, setter와 implements
 
-클래스에 대해 조금만 더 깊게 파고들어보자.  
-보통은 캡슐화를 통해 private 접근 지정자를 이용하면 되지만,  
-일반적으로 생각했을 때, getA, setA와 같은 getter, setter를 생각했지만..  
-학습하다 보니, 변수처럼 사용할 수 있는 패턴이 있다는 걸 알게되었다.
-이전에 deno에서 제공하는 패턴인줄 알고 자연스럽게 사용했었지만,  
-타입 스크립트의 근간이 되는 컨셉이었다.
-getter, setter 그리고 implements에 대해 한번 더 이야기 해보자.
+TypeScript 클래스에서 getter/setter를 활용한 캡슐화 패턴과 implements 키워드의 사용법을 정리한다.  
+변수처럼 사용할 수 있는 getter/setter 패턴은 유효성 검사나 디버깅 포인트를 잡기에 유용하다.
 
 # getter, setter
 

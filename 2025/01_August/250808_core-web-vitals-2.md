@@ -15,7 +15,10 @@ relatedCategories:
   - "seo"
 ---
 
-# Core Web Vitals <br />
+# Core Web Vitals - LCP
+
+Google이 정의한 핵심 성능 지표 중 LCP(Largest Contentful Paint)를 정리한다.  
+LCP는 가장 큰 콘텐츠 요소가 로드되는데 걸리는 시간으로, 2.5초 이내가 권장된다.
 
 > [StudyURL](https://backlinko.com/hub/seo/core-web-vitals)
 >
