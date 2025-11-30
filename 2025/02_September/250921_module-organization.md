@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "typescript"
-topic: "module-organization"
+topic: "module-resolution"
 updatedAt: "2025-11-30"
 
 keywords:

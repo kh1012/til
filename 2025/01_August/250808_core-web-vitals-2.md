@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "performance"
-topic: "core-web-vitals-lcp"
+topic: "web-vitals"
 updatedAt: "2025-11-30"
 
 keywords:

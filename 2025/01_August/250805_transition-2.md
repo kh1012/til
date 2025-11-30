@@ -1,8 +1,8 @@
 ---
 type: "skill"
 domain: "frontend"
-category: "react"
-topic: "concurrency-lane-model"
+category: "performance"
+topic: "concurrent-feature"
 updatedAt: "2025-11-30"
 
 keywords:

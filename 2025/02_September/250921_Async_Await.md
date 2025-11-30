@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "javascript"
-topic: "async-await"
+topic: "async"
 updatedAt: "2025-11-30"
 
 keywords:

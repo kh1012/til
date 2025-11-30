@@ -1,8 +1,8 @@
 ---
 type: "skill"
 domain: "frontend"
-category: "typescript"
-topic: "inheritance-mixin"
+category: "javascript"
+topic: "class-vs-prototype"
 updatedAt: "2025-11-30"
 
 keywords:

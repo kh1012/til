@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "typescript"
-topic: "type-alias-guard"
+topic: "type-narrowing"
 updatedAt: "2025-11-30"
 
 keywords:

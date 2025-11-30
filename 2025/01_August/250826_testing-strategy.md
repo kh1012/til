@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "testing"
-topic: "e2e-unit-testing"
+topic: "e2e-test"
 updatedAt: "2025-11-30"
 
 keywords:

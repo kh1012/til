@@ -1,8 +1,8 @@
 ---
 type: "skill"
 domain: "frontend"
-category: "typescript"
-topic: "class-getter-setter"
+category: "javascript"
+topic: "class-vs-prototype"
 updatedAt: "2025-11-30"
 
 keywords:

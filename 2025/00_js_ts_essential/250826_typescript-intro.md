@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "typescript"
-topic: "typescript-intro"
+topic: "ts-primitive-types"
 updatedAt: "2025-11-30"
 
 keywords:

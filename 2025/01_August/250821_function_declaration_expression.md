@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "javascript"
-topic: "function-declaration-expression"
+topic: "hoisting"
 updatedAt: "2025-11-30"
 
 keywords:

@@ -2,7 +2,7 @@
 type: "skill"
 domain: "frontend"
 category: "typescript"
-topic: "type-definition"
+topic: "type-alias"
 updatedAt: "2025-11-30"
 
 keywords:

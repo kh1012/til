@@ -1,8 +1,8 @@
 ---
 type: "skill"
 domain: "frontend"
-category: "javascript"
-topic: "modern-javascript"
+category: "build-infra"
+topic: "bundler"
 updatedAt: "2025-11-30"
 
 keywords:
