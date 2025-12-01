@@ -327,4 +327,4 @@ export const baseTopics: Record<string, string[]> = {
 ## MVP! 
 > 카테고리 X 토픽 기준으로 매트릭스 구성 완료!
 
-![heatmap.png](../../assets/251130_heatmap.png)
+![heatmap.png](https://raw.githubusercontent.com/kh1012/til/main/assets/251130_heatmap.png)
