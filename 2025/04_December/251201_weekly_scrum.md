@@ -115,10 +115,10 @@ weekly planning에도 그대로 적용된다.
 총 4개의 대시보드 아이템을 구성해봤다.
 
 그 결과는 아래 스크린샷.
-![img.png](../../assets/img.png)
+![summary.png](https://raw.githubusercontent.com/kh1012/til/main/assets/251201_summary.png)
 
-![img_1.png](../../assets/img_1.png)
+![project.png](https://raw.githubusercontent.com/kh1012/til/main/assets/251201_project.png)
 
-![img_2.png](../../assets/img_2.png)
+![matrix.png](https://raw.githubusercontent.com/kh1012/til/main/assets/251201_matrix.png)
 
-![img_3.png](../../assets/img_3.png)
+![scatter.png](https://raw.githubusercontent.com/kh1012/til/main/assets/251201_scatter.png)
