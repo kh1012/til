@@ -1,5 +1,5 @@
 ---
-type: "skill"
+type: "content"
 domain: "meta"
 category: "learning-system"
 topic: "skill-matrix-design"

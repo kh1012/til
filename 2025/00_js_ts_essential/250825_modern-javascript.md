@@ -1,5 +1,5 @@
 ---
-type: "skill"
+type: "content"
 domain: "frontend"
 category: "build-infra"
 topic: "bundler"

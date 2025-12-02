@@ -1,5 +1,5 @@
 ---
-type: "skill"
+type: "content"
 domain: "frontend"
 category: "javascript"
 topic: "handlebars-template"
