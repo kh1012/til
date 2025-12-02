@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251202_team_operating-system.md](https://github.com/kh1012/til/blob/main/2025/04_December/251202_team_operating-system.md)
 - [251201_weekly_scrum.md](https://github.com/kh1012/til/blob/main/2025/04_December/251201_weekly_scrum.md)
 - [251130_design_skill_matrix.md](https://github.com/kh1012/til/blob/main/2025/03_Nomember/251130_design_skill_matrix.md)
 - [251127_Context.md](https://github.com/kh1012/til/blob/main/2025/03_Nomember/251127_Context.md)
