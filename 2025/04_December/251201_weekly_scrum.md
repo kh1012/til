@@ -1,5 +1,5 @@
 ---
-type: "skill"
+type: "organization"
 domain: "scrum"
 category: "planning"
 topic: "weekly-scrum-planning"
