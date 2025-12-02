@@ -5,6 +5,10 @@ category: "typescript"
 topic: "interface"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 55
+  reason: "interface와 type alias 차이를 간단히 정리, 더 상세한 비교 필요"
+
 keywords:
   - "interface"
   - "type-alias"

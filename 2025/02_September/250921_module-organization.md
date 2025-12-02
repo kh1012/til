@@ -5,6 +5,10 @@ category: "typescript"
 topic: "module-resolution"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 60
+  reason: "모듈 스펙과 디렉토리 캡슐화 개념을 간략히 정리, 더 깊은 예시 필요"
+
 keywords:
   - "module"
   - "import"

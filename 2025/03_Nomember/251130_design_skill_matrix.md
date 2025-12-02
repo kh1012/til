@@ -5,6 +5,10 @@ category: "learning-system"
 topic: "skill-matrix-design"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 85
+  reason: "스킬 매트릭스의 구조 설계와 타입 정의를 완성하고, MVP 히트맵까지 구현함"
+
 keywords:
   - "skill-matrix"
   - "taxonomy"

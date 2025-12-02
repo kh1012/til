@@ -5,6 +5,10 @@ category: "performance"
 topic: "web-vitals"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 50
+  reason: "LCP 개념 소개 수준, INP/CLS 등 나머지 지표 정리 미완성"
+
 keywords:
   - "Core-Web-Vitals"
   - "LCP"

@@ -5,6 +5,10 @@ category: "javascript"
 topic: "closure"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 70
+  reason: "클로저 개념과 스코프 체인 동작 원리를 코드 예시와 함께 정리"
+
 keywords:
   - "closure"
   - "scope-chain"

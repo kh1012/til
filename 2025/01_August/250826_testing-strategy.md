@@ -5,6 +5,10 @@ category: "testing"
 topic: "e2e-test"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 60
+  reason: "테스트 전략 개요와 최소 셋업 가이드 정리, 실제 구현은 미완성"
+
 keywords:
   - "Playwright"
   - "Vitest"

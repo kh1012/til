@@ -5,6 +5,10 @@ category: "javascript"
 topic: "class-vs-prototype"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 75
+  reason: "믹스인 실무 패턴을 제네릭 생성자로 구현하는 방법을 코드와 함께 정리"
+
 keywords:
   - "mixin"
   - "class"

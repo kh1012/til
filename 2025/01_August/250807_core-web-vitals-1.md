@@ -5,6 +5,10 @@ category: "performance"
 topic: "web-vitals"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 45
+  reason: "Core Web Vitals 개요만 정리, 상세 내용은 후속 문서로 분리됨"
+
 keywords:
   - "Core-Web-Vitals"
   - "Google"

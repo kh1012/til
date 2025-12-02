@@ -5,6 +5,10 @@ category: "build-infra"
 topic: "bundler"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 65
+  reason: "JavaScript 역사와 번들러/트랜스파일러 개념을 개괄적으로 정리"
+
 keywords:
   - "ECMAScript"
   - "ES2015"

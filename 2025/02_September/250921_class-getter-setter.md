@@ -5,6 +5,10 @@ category: "javascript"
 topic: "class-vs-prototype"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 75
+  reason: "getter/setter와 implements, mixin의 차이를 코드 예시와 함께 명확히 정리"
+
 keywords:
   - "class"
   - "getter"

@@ -5,6 +5,10 @@ category: "performance"
 topic: "concurrent-feature"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 85
+  reason: "레인 모델 심화, 얽힘 메커니즘, useDeferredValue/useTransition 비교까지 체계적으로 정리"
+
 keywords:
   - "React18"
   - "concurrency"

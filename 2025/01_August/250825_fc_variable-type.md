@@ -5,6 +5,10 @@ category: "typescript"
 topic: "type-narrowing"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 60
+  reason: "type alias와 type guard 기본 개념 정리"
+
 keywords:
   - "type"
   - "type-alias"

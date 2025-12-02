@@ -5,6 +5,10 @@ category: "javascript"
 topic: "execution-context"
 updatedAt: "2025-11-27"
 
+satisfaction:
+  score: 80
+  reason: "실행 컨텍스트, tanstack-query, Tailwind 등 다양한 개념을 깊이 있게 정리한 하루"
+
 keywords:
   - "execution-context"
   - "lexical-environment"

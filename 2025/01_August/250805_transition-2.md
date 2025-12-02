@@ -5,6 +5,10 @@ category: "performance"
 topic: "concurrent-feature"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 85
+  reason: "레인 모델의 비트 연산 구현, 우선순위 시스템, 이벤트 매핑까지 깊이 있게 정리"
+
 keywords:
   - "React18"
   - "concurrency"

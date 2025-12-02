@@ -5,6 +5,10 @@ category: "planning"
 topic: "weekly-scrum-planning"
 updatedAt: "2025-12-01"
 
+satisfaction:
+  score: 90
+  reason: "대시보드 설계를 통해 팀 플래닝 구조를 명확히 정립하고, 4개의 실제 결과물까지 도출함"
+
 keywords:
   - "scrum-planning"
   - "weekly-progress"

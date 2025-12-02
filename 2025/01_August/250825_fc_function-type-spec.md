@@ -5,6 +5,10 @@ category: "typescript"
 topic: "type-alias"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 65
+  reason: "type intersection과 Generic 활용 예시를 코드와 함께 정리"
+
 keywords:
   - "type"
   - "type-intersection"

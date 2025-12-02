@@ -5,6 +5,10 @@ category: "javascript"
 topic: "class-vs-prototype"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 70
+  reason: "상속, 접근지정자, 믹스인 기본 개념을 코드와 함께 정리"
+
 keywords:
   - "class"
   - "extends"

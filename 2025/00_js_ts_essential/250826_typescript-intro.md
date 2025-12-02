@@ -5,6 +5,10 @@ category: "typescript"
 topic: "ts-primitive-types"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 60
+  reason: "TypeScript 입문과 개발환경 구성 기초 정리, 실습 코드 포함"
+
 keywords:
   - "typescript"
   - "javascript"

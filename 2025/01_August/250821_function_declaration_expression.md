@@ -5,6 +5,10 @@ category: "javascript"
 topic: "hoisting"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 65
+  reason: "함수 선언과 표현식의 호이스팅 차이를 명확히 정리"
+
 keywords:
   - "function-declaration"
   - "function-expression"

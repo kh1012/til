@@ -5,6 +5,10 @@ category: "javascript"
 topic: "handlebars-template"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 55
+  reason: "HandleBars와 템플릿 컨벤션 개념 소개 수준, RegEx는 별도 정리 필요"
+
 keywords:
   - "handlebars"
   - "template-engine"

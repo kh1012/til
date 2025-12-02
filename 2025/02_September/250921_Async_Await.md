@@ -5,6 +5,10 @@ category: "javascript"
 topic: "async"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 80
+  reason: "XHR→fetch→Promise→async/await 진화 과정과 이벤트 루프 개념까지 체계적으로 정리"
+
 keywords:
   - "XMLHttpRequest"
   - "fetch"

@@ -5,6 +5,10 @@ category: "performance"
 topic: "concurrent-feature"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 75
+  reason: "React 동시성 연구 배경과 블로킹 문제, 디바운싱 한계를 명확히 설명"
+
 keywords:
   - "React18"
   - "concurrency"

@@ -5,6 +5,10 @@ category: "javascript"
 topic: "async"
 updatedAt: "2025-11-30"
 
+satisfaction:
+  score: 65
+  reason: "for await...of 문법과 AsyncIterable 개념을 예시와 함께 정리"
+
 keywords:
   - "for-await-of"
   - "AsyncIterable"
