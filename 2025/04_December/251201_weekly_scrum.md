@@ -1,5 +1,5 @@
 ---
-type: "til"
+type: "organization"
 domain: "scrum"
 category: "planning"
 topic: "weekly-scrum-planning"
