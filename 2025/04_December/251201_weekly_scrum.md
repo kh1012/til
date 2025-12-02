@@ -1,20 +1,20 @@
 ---
-type: "organization"
+type: "content"
 domain: "scrum"
 category: "planning"
 topic: "weekly-scrum-planning"
 updatedAt: "2025-12-01"
 
 keywords:
-- "scrum-planning"
-- "weekly-progress"
-- "dashboard"
-- "risk-structure"
-- "content-modeling"
-- "team-alignment"
+  - "scrum-planning"
+  - "weekly-progress"
+  - "dashboard"
+  - "risk-structure"
+  - "content-modeling"
+  - "team-alignment"
 
 relatedCategories:
-- "meta"
+  - "meta"
 ---
 
 # Weekly Scrum Planning
@@ -25,11 +25,13 @@ relatedCategories:
 결과적으로 팀이 매주 **같은 기준으로 판단하고 정렬될 수 있는 구조**가 선명해졌다.
 
 ## 1) Weekly Progress Card — 대시보드를 구성하는 핵심 단위
+
 오늘의 대화에서 가장 명확하게 잡힌 개념.
 
 Weekly Progress Card에는 **플래닝 판단에 필요한 최소 요소만** 존재해야 한다.
 
 ### 필요한 구성요소
+
 - **Plan**: 이번 주 반드시 성공해야 하는 목표
 - **Progress**: 현재까지의 흐름
 - **Next Step**: 다음 행동
@@ -39,6 +41,7 @@ Weekly Progress Card에는 **플래닝 판단에 필요한 최소 요소만** �
 여기서 핵심은 RiskLevel 규칙.
 
 ### 단순한 “진해짐”이 아니라 **우선순위가 즉각적으로 읽혀야 함**
+
 색상 규칙은 플래닝 자체가 판단 가능한 도구가 되도록 해야 한다.
 
 - 1 = 연한 초록 (#DFF5E1)
@@ -55,7 +58,9 @@ Weekly Progress Card에는 **플래닝 판단에 필요한 최소 요소만** �
 ## 2) 실제 대시보드를 설계하며 얻은 인사이트
 
 ### ① “보고서”가 아니라 “의사결정 도구”여야 한다
+
 기존 포맷은 텍스트 기반이어서
+
 - 무엇이 중요하고
 - 무엇이 위험하고
 - 무엇을 먼저 처리해야 하는지
@@ -66,12 +71,14 @@ Weekly Progress Card에는 **플래닝 판단에 필요한 최소 요소만** �
 대시보드는 보고서가 아니라 **즉시 판단 가능한 작업 공간**으로 변했다.
 
 ### ② 플래닝의 목적은 “프로젝트 상태를 예측 가능하게 만드는 것”
+
 예측 가능성이 없으면 좋은 플래닝이 아니다.  
 대시보드에서 불확실성이 바로 보이면 팀은 같은 방향을 본다.
 
 이 점에서 리스크 모델링과 상태 모델링이 대시보드의 핵심이 된다.
 
 ### ③ 플래닝의 단위는 “사람”이 아니라 “이슈”
+
 개인이 아니라 이슈가 주제가 되어야 한다:
 
 - 사람 기준: 상황 설명이 길어짐
@@ -80,6 +87,7 @@ Weekly Progress Card에는 **플래닝 판단에 필요한 최소 요소만** �
 그래서 카드 구조도 **사람 → 이슈**가 아니라 **이슈 → 사람(담당자)** 형태로 바뀌어야 한다.
 
 ## 3) 커뮤니케이션 규칙도 구조에 포함된다
+
 오늘 정리한 커뮤니케이션 패턴은  
 weekly planning에도 그대로 적용된다.
 
@@ -92,6 +100,7 @@ weekly planning에도 그대로 적용된다.
 그다음 설명은 이미 절반이 끝난 상태다.
 
 # 마무리
+
 오늘의 결론은 단순하다.
 
 > **좋은 weekly planning은 ‘정보’가 아니라 ‘구조’를 공유한다.**
@@ -107,10 +116,10 @@ weekly planning에도 그대로 적용된다.
 
 # 결과물
 
-1) 카드
-2) 프로젝트
-3) 매트릭스
-4) 사분면
+1. 카드
+2. 프로젝트
+3. 매트릭스
+4. 사분면
 
 총 4개의 대시보드 아이템을 구성해봤다.
 
