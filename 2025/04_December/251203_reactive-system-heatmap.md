@@ -6,8 +6,8 @@ topic: "til-reactive-system-heatmap"
 updatedAt: "2025-12-03"
 
 satisfaction:
-score: 95
-reason: 자기 전 떠올린 아이디어를 실제 기능으로 하루 만에 구현하고, 시스템적 기준까지 정립했기 때문.
+  score: 95
+  reason: 자기 전 떠올린 아이디어를 실제 기능으로 하루 만에 구현하고, 시스템적 기준까지 정립했기 때문.
 
 keywords:
 - "reactive-system"
