@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251205_personal_dashboard.md](https://github.com/kh1012/til/blob/main/2025/04_December/251205_personal_dashboard.md)
 - [251204_callback.md](https://github.com/kh1012/til/blob/main/2025/04_December/251204_callback.md)
 - [251204_this.md](https://github.com/kh1012/til/blob/main/2025/04_December/251204_this.md)
 - [251203_reactive-system-heatmap.md](https://github.com/kh1012/til/blob/main/2025/04_December/251203_reactive-system-heatmap.md)
