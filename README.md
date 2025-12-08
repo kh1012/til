@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251208_re-design-snapshot.md](https://github.com/kh1012/til/blob/main/2025/04_December/251208_re-design-snapshot.md)
 - [251207_collaborators.md](https://github.com/kh1012/til/blob/main/2025/04_December/251207_collaborators.md)
 - [251205_personal_dashboard.md](https://github.com/kh1012/til/blob/main/2025/04_December/251205_personal_dashboard.md)
 - [251204_callback.md](https://github.com/kh1012/til/blob/main/2025/04_December/251204_callback.md)
