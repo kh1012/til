@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251215_supabase.md](https://github.com/kh1012/til/blob/main/2025/04_December/251215_supabase.md)
 - [251209_snapshot-launch.md](https://github.com/kh1012/til/blob/main/2025/04_December/251209_snapshot-launch.md)
 - [251208_re-design-snapshot.md](https://github.com/kh1012/til/blob/main/2025/04_December/251208_re-design-snapshot.md)
 - [251207_collaborators.md](https://github.com/kh1012/til/blob/main/2025/04_December/251207_collaborators.md)
