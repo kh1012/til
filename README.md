@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251216_all_plans.md](https://github.com/kh1012/til/blob/main/2025/04_December/251216_all_plans.md)
 - [251215_supabase.md](https://github.com/kh1012/til/blob/main/2025/04_December/251215_supabase.md)
 - [251209_snapshot-launch.md](https://github.com/kh1012/til/blob/main/2025/04_December/251209_snapshot-launch.md)
 - [251208_re-design-snapshot.md](https://github.com/kh1012/til/blob/main/2025/04_December/251208_re-design-snapshot.md)
