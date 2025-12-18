@@ -1,7 +1,7 @@
 ---
 type: "skill"
-domain: "team"
-category: "scrum"
+domain: "frontend"
+category: "side-project"
 topic: "snapshot-v2-intro"
 updatedAt: "2025-12-09"
 

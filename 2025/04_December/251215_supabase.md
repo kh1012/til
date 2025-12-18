@@ -1,7 +1,7 @@
 ---
 type: "skill"
-domain: "backend"
-category: "baas"
+domain: "frontend"
+category: "side-project"
 topic: "supabase-integration"
 updatedAt: "2025-12-15"
 

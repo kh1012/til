@@ -1,7 +1,7 @@
 ---
 type: "skills"
 domain: "frontend"
-category: "ux-ui"
+category: "side-project"
 topic: "schedule-table-ux-design"
 updatedAt: "2025-12-16"
 
