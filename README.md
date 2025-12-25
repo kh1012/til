@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251225_ssr-paint-hydration.md](https://github.com/kh1012/til/blob/main/2025/04_December/251225_ssr-paint-hydration.md)
 - [251218_plans_complete.md](https://github.com/kh1012/til/blob/main/2025/04_December/251218_plans_complete.md)
 - [251216_all_plans.md](https://github.com/kh1012/til/blob/main/2025/04_December/251216_all_plans.md)
 - [251215_supabase.md](https://github.com/kh1012/til/blob/main/2025/04_December/251215_supabase.md)
