@@ -30,38 +30,30 @@ relatedCategories:
 서버는 보여줄 수 있는 HTML을 먼저 내려주고, 브라우저는 JS 없이도 가능한 렌더링(페인팅)을 끝낸 뒤, 마지막에 React가 기존 DOM에 이벤트와 상태를 연결(hydration)한다.  
 보이는 시점(First Paint)과 동작하는 시점(Hydration Complete)은 다르며, 이 시간차를 이해하지 못하면 화면은 보이는데 클릭이 안 되거나 스타일이 깜빡이는 문제를 반복해서 만든다.
 
-## 전체 시퀀스
+## 전체 렌더링 시퀀스 (Time-based View)
 
-User        Browser              Server (Next.js)        React Runtime
- |             |                        |                       |
- |  URL 입력   |                        |                       |
- |------------>|                        |                       |
- |             |  HTTP 요청             |                       |
- |             |----------------------->|                       |
- |             |                        |  SSR / RSC 렌더       |
- |             |                        |---------------------->|
- |             |                        |                       |
- |             |  HTML 응답             |                       |
- |             |<-----------------------|                       |
- |             |                        |                       |
- |             |  HTML 파싱             |                       |
- |             |  DOM 생성              |                       |
- |             |  CSS 다운로드          |                       |
- |             |  Layout / Paint        |                       |
- |             |  (First Paint)         |                       |
- |             |                        |                       |
- |             |  JS 번들 로드          |                       |
- |             |----------------------------------------------->|
- |             |                        |                       |
- |             |                        |  Hydration 시작       |
- |             |                        |<----------------------|
- |             |                        |  이벤트 연결          |
- |             |                        |  상태 바인딩          |
- |             |                        |                       |
- |             |  상호작용 가능         |                       |
- |             |<-----------------------------------------------|
+| 순서 | 주체 | 단계 | 발생 시점 | 핵심 설명 |
+| --- | --- | --- | --- | --- |
+| 1 | User | URL 입력 | 시작 | 주소 입력 또는 링크 클릭 |
+| 2 | Browser | HTTP 요청 | 즉시 | 서버(Next.js)로 페이지 요청 |
+| 3 | Server (Next.js) | SSR / RSC 렌더 | 서버 처리 | 라우트 결정, 데이터 로드, HTML 생성 |
+| 4 | Server → Browser | HTML 응답 | 네트워크 | 초기 HTML + CSS 링크 + JS 로드 스크립트 전달 |
+| 5 | Browser | HTML 파싱 | JS 이전 | DOM 트리 생성 시작 |
+| 6 | Browser | CSS 다운로드 | 병렬 | CSSOM 생성 |
+| 7 | Browser | Layout / Paint | JS 이전 | Render Tree → First Paint (화면 보임) |
+| 8 | Browser | JS 번들 로드 | Paint 이후 | React 런타임 포함 JS 다운로드/실행 |
+| 9 | React Runtime | Hydration 시작 | JS 실행 | 서버 DOM 재사용 |
+|10 | React Runtime | 이벤트 연결 | Hydration 중 | onClick 등 이벤트 핸들러 바인딩 |
+|11 | React Runtime | 상태 바인딩 | Hydration 중 | 컴포넌트 상태 초기화 |
+|12 | Browser | 상호작용 가능 | 완료 | 사용자 입력 정상 처리 |
 
-## 단계별 실제 동작
+## 시점 기준 상태 요약
+
+| 구간 | 화면 보임 | 클릭 가능 | React 개입 |
+| --- | --- | --- | --- |
+| HTML 파싱 ~ Paint | O | X | X |
+| First Paint ~ Hydration 완료 | O | △ | 진행 중 |
+| Hydration 완료 이후 | O | O | O |
 
 ### 1) 서버 사이드 (SSR)
 
