@@ -6,7 +6,7 @@ const repo = "til";
 const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/`;
 
 // 루트 디렉토리 설정: 2025만 포함
-const rootDirectories = ["2025"]; // 2025 디렉토리만 트리로 생성
+const rootDirectories = ["2025", "2026"]; // 2025, 2026 디렉토리만 트리로 생성
 
 // Ignore할 디렉토리 리스트: node_modules와 .github만 제외
 const ignoreList = ["node_modules", ".github"];
