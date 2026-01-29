@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [251230_safe-integer.md](https://github.com/kh1012/til/blob/main/2025/04_December/251230_safe-integer.md)
 - [251227_css-flex.md](https://github.com/kh1012/til/blob/main/2025/04_December/251227_css-flex.md)
 - [251225_ssr-paint-hydration.md](https://github.com/kh1012/til/blob/main/2025/04_December/251225_ssr-paint-hydration.md)
 - [251218_plans_complete.md](https://github.com/kh1012/til/blob/main/2025/04_December/251218_plans_complete.md)
