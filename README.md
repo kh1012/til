@@ -46,5 +46,11 @@
 
 ## 2026
 
+- [260208_array_filter.md](https://github.com/kh1012/til/blob/main/2026/01/260208_array_filter.md)
+- [260208_epsilon_round.md](https://github.com/kh1012/til/blob/main/2026/01/260208_epsilon_round.md)
+- [260208_new_date.md](https://github.com/kh1012/til/blob/main/2026/01/260208_new_date.md)
+- [260208_rAF.md](https://github.com/kh1012/til/blob/main/2026/01/260208_rAF.md)
+- [260208_seo_semantic.md](https://github.com/kh1012/til/blob/main/2026/01/260208_seo_semantic.md)
+- [260208_useeffect_cleanup.md](https://github.com/kh1012/til/blob/main/2026/01/260208_useeffect_cleanup.md)
 - [260129_react_render_1.md](https://github.com/kh1012/til/blob/main/2026/01/260129_react_render_1.md)
 
