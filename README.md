@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260222_FE_architecture.md](https://github.com/kh1012/til/blob/main/2026/01/260222_FE_architecture.md)
 - [260215_atomic_design.md](https://github.com/kh1012/til/blob/main/2026/01/260215_atomic_design.md)
 - [260215_serialization.md](https://github.com/kh1012/til/blob/main/2026/01/260215_serialization.md)
 - [260215_trade_off.md](https://github.com/kh1012/til/blob/main/2026/01/260215_trade_off.md)
