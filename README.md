@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260223_virtualizer.md](https://github.com/kh1012/til/blob/main/2026/01/260223_virtualizer.md)
 - [260222_FE_architecture.md](https://github.com/kh1012/til/blob/main/2026/01/260222_FE_architecture.md)
 - [260215_atomic_design.md](https://github.com/kh1012/til/blob/main/2026/01/260215_atomic_design.md)
 - [260215_serialization.md](https://github.com/kh1012/til/blob/main/2026/01/260215_serialization.md)
