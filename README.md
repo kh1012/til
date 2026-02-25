@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260225_zod_day1.md](https://github.com/kh1012/til/blob/main/2026/02/260225_zod_day1.md)
 - [260223_SSR_optimization.md](https://github.com/kh1012/til/blob/main/2026/02/260223_SSR_optimization.md)
 - [260223_virtualizer.md](https://github.com/kh1012/til/blob/main/2026/02/260223_virtualizer.md)
 - [260222_FE_architecture.md](https://github.com/kh1012/til/blob/main/2026/02/260222_FE_architecture.md)
