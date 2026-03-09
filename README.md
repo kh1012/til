@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260304_bit_masking.md](https://github.com/kh1012/til/blob/main/2026/03/260304_bit_masking.md)
 - [260303_reduce.md](https://github.com/kh1012/til/blob/main/2026/03/260303_reduce.md)
 - [260225_zod_day1.md](https://github.com/kh1012/til/blob/main/2026/02/260225_zod_day1.md)
 - [260223_SSR_optimization.md](https://github.com/kh1012/til/blob/main/2026/02/260223_SSR_optimization.md)
