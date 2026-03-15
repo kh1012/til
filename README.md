@@ -47,6 +47,7 @@
 ## 2026
 
 - [260315_functional_programming_3.md](https://github.com/kh1012/til/blob/main/2026/03/260315_functional_programming_3.md)
+- [260315_shared_mutable_state.md](https://github.com/kh1012/til/blob/main/2026/03/260315_shared_mutable_state.md)
 - [260310_functional_programming_2.md](https://github.com/kh1012/til/blob/main/2026/03/260310_functional_programming_2.md)
 - [260309_functional_programming.md](https://github.com/kh1012/til/blob/main/2026/03/260309_functional_programming.md)
 - [260304_bit_masking.md](https://github.com/kh1012/til/blob/main/2026/03/260304_bit_masking.md)
