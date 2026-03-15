@@ -2,7 +2,7 @@
 type: "content"
 domain: "frontend"
 category: "javascript"
-topic: "functional programming"
+topic: "functional programming (1)"
 updatedAt: "2026-03-09"
 
 satisfaction:
