@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260318_feeds_automation_pipeline.md](https://github.com/kh1012/til/blob/main/2026/03/260318_feeds_automation_pipeline.md)
 - [260318_github_contents_api.md](https://github.com/kh1012/til/blob/main/2026/03/260318_github_contents_api.md)
 - [260315_functional_programming_3.md](https://github.com/kh1012/til/blob/main/2026/03/260315_functional_programming_3.md)
 - [260315_shared_mutable_state.md](https://github.com/kh1012/til/blob/main/2026/03/260315_shared_mutable_state.md)
