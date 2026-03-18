@@ -1,5 +1,5 @@
-<!-- draft: true -->
 ---
+draft: true
 type: "content"
 domain: "frontend"
 category: "nextjs"

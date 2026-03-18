@@ -18,11 +18,11 @@
 
 ## 3. 마크다운 생성
 
-파일 최상단에 draft 주석을 넣고, 그 아래 프론트메터와 본문을 작성한다.
+프론트메터와 본문을 작성한다. `<!-- draft: true -->` 주석은 프론트메터 안에 `draft: true` 필드로 대체한다.
 
 ```markdown
-<!-- draft: true -->
 ---
+draft: true
 type: "content"
 domain: "{frontend | backend | devops}"
 category: "{카테고리 - lowercase}"
