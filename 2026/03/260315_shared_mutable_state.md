@@ -1,20 +1,17 @@
 ---
-type: "content"
-domain: "frontend"
-category: "AI Tools"
-topic: "Claude Code"
-updatedAt: "2026-03-15"
-
+type: content
+domain: frontend
+category: AI Tools
+topic: Claude Code
+updatedAt: 2026-03-15
 satisfaction:
   score: 100
-  reason: "세션에서 기능을 이용했을 뿐, 활용하진 못했던 것 같다."
-
+  reason: 세션에서 기능을 이용했을 뿐, 활용하진 못했던 것 같다.
 keywords:
-  - "claude code"
-
+  - claude code
 relatedCategories:
-  - "javascript"
-  - "typescript"
+  - javascript
+  - typescript
 ---
 
 # Shared Mutable State

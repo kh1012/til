@@ -10,7 +10,7 @@
 
 ## 2. 파일 경로 결정
 
-- til 레포 경로: `/Users/mechuri/Documents/Hyuns-code/til`
+- til 레포 경로: `/Users/kh1012/MIDAS/Research/til`
 - 파일 경로 규칙: `{YYYY}/{MM}/{YYMMDD}_{slug}.md`
   - 예: `2026/03/260318_github_contents_api.md`
 - slug는 영문 소문자, 단어 구분은 `_` (언더스코어)
@@ -74,7 +74,7 @@ relatedCategories:
 파일 생성 후 자동으로 til 레포에 커밋 & 푸시한다.
 
 ```bash
-cd /Users/mechuri/Documents/Hyuns-code/til
+cd /Users/kh1012/MIDAS/Research/til
 git add {생성된 파일 경로}
 git commit -m "Add TIL: {topic}"
 git push origin main
