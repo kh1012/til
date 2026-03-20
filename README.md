@@ -49,6 +49,7 @@
 - [260320_agent_team_parallel_refactoring.md](https://github.com/kh1012/til/blob/main/2026/03/260320_agent_team_parallel_refactoring.md)
 - [260320_ai_sdk_data_url_ssrf_bypass.md](https://github.com/kh1012/til/blob/main/2026/03/260320_ai_sdk_data_url_ssrf_bypass.md)
 - [260320_spreadjs_nextjs_integration.md](https://github.com/kh1012/til/blob/main/2026/03/260320_spreadjs_nextjs_integration.md)
+- [260320_svg_chart_hover_tooltip_react.md](https://github.com/kh1012/til/blob/main/2026/03/260320_svg_chart_hover_tooltip_react.md)
 - [260320_vercel_ai_sdk_usechat_id_pitfall.md](https://github.com/kh1012/til/blob/main/2026/03/260320_vercel_ai_sdk_usechat_id_pitfall.md)
 - [260319_ai_chat_thread_sidebar_planning.md](https://github.com/kh1012/til/blob/main/2026/03/260319_ai_chat_thread_sidebar_planning.md)
 - [260319_interaction_panel_architecture.md](https://github.com/kh1012/til/blob/main/2026/03/260319_interaction_panel_architecture.md)
