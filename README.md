@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260322_ai_sdk_v6_stopwhen_multi_step.md](https://github.com/kh1012/til/blob/main/2026/03/260322_ai_sdk_v6_stopwhen_multi_step.md)
+- [260322_framer_motion_animatepresence_portal.md](https://github.com/kh1012/til/blob/main/2026/03/260322_framer_motion_animatepresence_portal.md)
 - [260322_icon_label_button_abstraction.md](https://github.com/kh1012/til/blob/main/2026/03/260322_icon_label_button_abstraction.md)
 - [260321_agent_team_design_system_workflow.md](https://github.com/kh1012/til/blob/main/2026/03/260321_agent_team_design_system_workflow.md)
 - [260321_ai_sdk_multi_step_tool_calling.md](https://github.com/kh1012/til/blob/main/2026/03/260321_ai_sdk_multi_step_tool_calling.md)
