@@ -47,8 +47,12 @@
 ## 2026
 
 - [260322_ai_sdk_v6_stopwhen_multi_step.md](https://github.com/kh1012/til/blob/main/2026/03/260322_ai_sdk_v6_stopwhen_multi_step.md)
+- [260322_control_tokens_size_extension.md](https://github.com/kh1012/til/blob/main/2026/03/260322_control_tokens_size_extension.md)
 - [260322_framer_motion_animatepresence_portal.md](https://github.com/kh1012/til/blob/main/2026/03/260322_framer_motion_animatepresence_portal.md)
+- [260322_html_button_nesting_hydration.md](https://github.com/kh1012/til/blob/main/2026/03/260322_html_button_nesting_hydration.md)
 - [260322_icon_label_button_abstraction.md](https://github.com/kh1012/til/blob/main/2026/03/260322_icon_label_button_abstraction.md)
+- [260322_react_isstreaming_toggle_pattern.md](https://github.com/kh1012/til/blob/main/2026/03/260322_react_isstreaming_toggle_pattern.md)
+- [260322_thread_command_atom_pattern.md](https://github.com/kh1012/til/blob/main/2026/03/260322_thread_command_atom_pattern.md)
 - [260321_agent_team_design_system_workflow.md](https://github.com/kh1012/til/blob/main/2026/03/260321_agent_team_design_system_workflow.md)
 - [260321_ai_sdk_multi_step_tool_calling.md](https://github.com/kh1012/til/blob/main/2026/03/260321_ai_sdk_multi_step_tool_calling.md)
 - [260321_fsd_design_system_audit_automation.md](https://github.com/kh1012/til/blob/main/2026/03/260321_fsd_design_system_audit_automation.md)
