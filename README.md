@@ -47,6 +47,7 @@
 ## 2026
 
 - [260321_agent_team_design_system_workflow.md](https://github.com/kh1012/til/blob/main/2026/03/260321_agent_team_design_system_workflow.md)
+- [260321_ai_sdk_multi_step_tool_calling.md](https://github.com/kh1012/til/blob/main/2026/03/260321_ai_sdk_multi_step_tool_calling.md)
 - [260321_fsd_design_system_audit_automation.md](https://github.com/kh1012/til/blob/main/2026/03/260321_fsd_design_system_audit_automation.md)
 - [260321_use_css_var_px_hook.md](https://github.com/kh1012/til/blob/main/2026/03/260321_use_css_var_px_hook.md)
 - [260320_agent_team_parallel_refactoring.md](https://github.com/kh1012/til/blob/main/2026/03/260320_agent_team_parallel_refactoring.md)
