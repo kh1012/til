@@ -47,6 +47,7 @@
 ## 2026
 
 - [260323_cellgraph_value_driven_visualization.md](https://github.com/kh1012/til/blob/main/2026/03/260323_cellgraph_value_driven_visualization.md)
+- [260323_framer_motion_uselayouteffect_timing.md](https://github.com/kh1012/til/blob/main/2026/03/260323_framer_motion_uselayouteffect_timing.md)
 - [260323_jotai_multiple_instances_esm_cjs.md](https://github.com/kh1012/til/blob/main/2026/03/260323_jotai_multiple_instances_esm_cjs.md)
 - [260323_oklch_design_token_contrast.md](https://github.com/kh1012/til/blob/main/2026/03/260323_oklch_design_token_contrast.md)
 - [260323_panel_frame_drop_layout_vs_transform.md](https://github.com/kh1012/til/blob/main/2026/03/260323_panel_frame_drop_layout_vs_transform.md)
