@@ -46,6 +46,11 @@
 
 ## 2026
 
+- [260324_ai_tool_chain_extension.md](https://github.com/kh1012/til/blob/main/2026/03/260324_ai_tool_chain_extension.md)
+- [260324_oklch_border_token_tuning.md](https://github.com/kh1012/til/blob/main/2026/03/260324_oklch_border_token_tuning.md)
+- [260324_platform_capability_abstraction.md](https://github.com/kh1012/til/blob/main/2026/03/260324_platform_capability_abstraction.md)
+- [260324_react_virtuoso_memo_pitfall.md](https://github.com/kh1012/til/blob/main/2026/03/260324_react_virtuoso_memo_pitfall.md)
+- [260324_vercel_ai_sdk_context_trimming.md](https://github.com/kh1012/til/blob/main/2026/03/260324_vercel_ai_sdk_context_trimming.md)
 - [260323_cellgraph_value_driven_visualization.md](https://github.com/kh1012/til/blob/main/2026/03/260323_cellgraph_value_driven_visualization.md)
 - [260323_framer_motion_uselayouteffect_timing.md](https://github.com/kh1012/til/blob/main/2026/03/260323_framer_motion_uselayouteffect_timing.md)
 - [260323_jotai_multiple_instances_esm_cjs.md](https://github.com/kh1012/til/blob/main/2026/03/260323_jotai_multiple_instances_esm_cjs.md)
