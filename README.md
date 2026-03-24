@@ -47,6 +47,7 @@
 ## 2026
 
 - [260324_ai_tool_chain_extension.md](https://github.com/kh1012/til/blob/main/2026/03/260324_ai_tool_chain_extension.md)
+- [260324_csp_blob_bypass_and_clean_architecture_component.md](https://github.com/kh1012/til/blob/main/2026/03/260324_csp_blob_bypass_and_clean_architecture_component.md)
 - [260324_file_only_send_ux_decision.md](https://github.com/kh1012/til/blob/main/2026/03/260324_file_only_send_ux_decision.md)
 - [260324_oklch_border_token_tuning.md](https://github.com/kh1012/til/blob/main/2026/03/260324_oklch_border_token_tuning.md)
 - [260324_platform_capability_abstraction.md](https://github.com/kh1012/til/blob/main/2026/03/260324_platform_capability_abstraction.md)
