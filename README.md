@@ -46,6 +46,9 @@
 
 ## 2026
 
+- [260325_nextjs_memory_leak_diagnosis.md](https://github.com/kh1012/til/blob/main/2026/03/260325_nextjs_memory_leak_diagnosis.md)
+- [260325_notebooklm_mcp_slide_generation.md](https://github.com/kh1012/til/blob/main/2026/03/260325_notebooklm_mcp_slide_generation.md)
+- [260325_react_virtualization_library_selection.md](https://github.com/kh1012/til/blob/main/2026/03/260325_react_virtualization_library_selection.md)
 - [260324_ai_tool_chain_extension.md](https://github.com/kh1012/til/blob/main/2026/03/260324_ai_tool_chain_extension.md)
 - [260324_csp_blob_bypass_and_clean_architecture_component.md](https://github.com/kh1012/til/blob/main/2026/03/260324_csp_blob_bypass_and_clean_architecture_component.md)
 - [260324_file_only_send_ux_decision.md](https://github.com/kh1012/til/blob/main/2026/03/260324_file_only_send_ux_decision.md)
