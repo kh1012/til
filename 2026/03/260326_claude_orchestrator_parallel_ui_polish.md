@@ -62,6 +62,7 @@ tmux "do" 세션 (4-pane)
 **실패 패턴**: 긴 프롬프트를 `tmux load-buffer + paste-buffer`로 전달하면, Claude가 bkit의 AskUserQuestion에 먼저 응답하느라 실제 작업을 시작 안 함. Enter가 안 먹히는 경우도 있음.
 
 **성공 패턴**:
+
 - 프롬프트는 한 줄 또는 간결하게
 - 디자인 문서 참조 시 "라인 N~M을 읽고 실행해" 형태
 - 워커가 bkit 질문을 할 경우를 대비해 프롬프트 재전송 준비
@@ -80,15 +81,16 @@ grep -rn "mockup" src/ --include="*.ts" | wc -l  # 0이면 진짜 완료
 
 ### 5. LHCI 성능 최적화 결과
 
-| 메트릭 | Before | After | 변화 |
-|--------|--------|-------|------|
-| Performance | 75 | 87 | +12 |
-| LCP | 4,369ms | 2,127ms | -51% |
-| TTI | 6,061ms | 4,020ms | -34% |
-| Speed Index | 1,438ms | 582ms | -60% |
-| Total Bytes | 6.2MB | 3.9MB | -37% |
+| 메트릭      | Before  | After   | 변화 |
+| ----------- | ------- | ------- | ---- |
+| Performance | 75      | 87      | +12  |
+| LCP         | 4,369ms | 2,127ms | -51% |
+| TTI         | 6,061ms | 4,020ms | -34% |
+| Speed Index | 1,438ms | 582ms   | -60% |
+| Total Bytes | 6.2MB   | 3.9MB   | -37% |
 
 핵심 수정:
+
 - `useStableItemContent` — 이미 구현된 훅을 연결만 함 (Virtuoso 리렌더 안정화)
 - `setInterval(16ms)` → `50ms` — 스트리밍 state 업데이트 빈도 감소
 - `messages` deps를 ref로 전환 — effect 실행 ~90% 감소
@@ -97,29 +99,12 @@ grep -rn "mockup" src/ --include="*.ts" | wc -l  # 0이면 진짜 완료
 ### 6. 검증 → 피드백 → 수정 루프
 
 설계 문서 기반 Gap Analysis(100%) 후에도 실제 브라우저 검증에서 많은 이슈 발견:
+
 - Portal 전환으로 렌더링 멈춤 → sticky로 원복
 - `blob:` URL CSP 차단 → File 객체 전달 + FileReader
 - 다크모드 hover 구분감 부족 → `--hover-overlay` 조정
 
 **코드 레벨 Gap Analysis와 시각 검증은 별개**. 둘 다 해야 한다.
-
-### 7. 하루 커밋 로그
-
-```
-09d7f36 refactor(api): mockupMode → clientMode 리네이밍
-b89d6f7 style(message): 메세지버블 Footer 항상 노출
-0c89bf5 feat(file-card): 파일첨부 미리보기 개선
-dd16038 fix(tool-card): font-black dead code 제거
-707f20d refactor(storage): localStorage maxys: → max: 마이그레이션
-35ccbc8 feat(chat-area): MessageInput Portal 변환
-0fe33e1 style(message-input): 포커스 시 scale 효과
-e9a591d chore: .bkit/ gitignore 추가
-1ee2b54 perf: 성능 최적화 — LHCI 75→87
-914dadc fix(ui): 검증 피드백 — Portal 원복, 스케일 제거
-4309290 fix(ui): snippet filename fallback
-dbeb4c0 fix(file-preview): blob URL 지원
-78575f7 feat(ui): 검색 기능, 다크모드 hover, ConfirmDialog
-```
 
 ## 정리
 
