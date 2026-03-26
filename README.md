@@ -48,6 +48,7 @@
 
 - [260326_chat_bubble_width_and_runtime_debugging.md](https://github.com/kh1012/til/blob/main/2026/03/260326_chat_bubble_width_and_runtime_debugging.md)
 - [260326_claude_orchestrator_parallel_ui_polish.md](https://github.com/kh1012/til/blob/main/2026/03/260326_claude_orchestrator_parallel_ui_polish.md)
+- [260326_dialog_overlay_unification_and_usecallback_deps.md](https://github.com/kh1012/til/blob/main/2026/03/260326_dialog_overlay_unification_and_usecallback_deps.md)
 - [260326_hover_overlay_and_scrollbar_cls.md](https://github.com/kh1012/til/blob/main/2026/03/260326_hover_overlay_and_scrollbar_cls.md)
 - [260326_virtuoso_reverse_infinite_scroll.md](https://github.com/kh1012/til/blob/main/2026/03/260326_virtuoso_reverse_infinite_scroll.md)
 - [260325_design_token_hierarchy_oklch.md](https://github.com/kh1012/til/blob/main/2026/03/260325_design_token_hierarchy_oklch.md)
