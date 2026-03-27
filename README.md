@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260327_tool_call_display_ux.md](https://github.com/kh1012/til/blob/main/2026/03/260327_tool_call_display_ux.md)
 - [260326_chat_bubble_width_and_runtime_debugging.md](https://github.com/kh1012/til/blob/main/2026/03/260326_chat_bubble_width_and_runtime_debugging.md)
 - [260326_claude_orchestrator_parallel_ui_polish.md](https://github.com/kh1012/til/blob/main/2026/03/260326_claude_orchestrator_parallel_ui_polish.md)
 - [260326_dialog_overlay_unification_and_usecallback_deps.md](https://github.com/kh1012/til/blob/main/2026/03/260326_dialog_overlay_unification_and_usecallback_deps.md)
