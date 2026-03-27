@@ -48,6 +48,7 @@
 
 - [260327_claude_projects_clone_architecture.md](https://github.com/kh1012/til/blob/main/2026/03/260327_claude_projects_clone_architecture.md)
 - [260327_flat_tabs_breadcrumb_ux_pattern.md](https://github.com/kh1012/til/blob/main/2026/03/260327_flat_tabs_breadcrumb_ux_pattern.md)
+- [260327_fsd_ui_directory_restructure.md](https://github.com/kh1012/til/blob/main/2026/03/260327_fsd_ui_directory_restructure.md)
 - [260327_reactive_calcpad_with_dag.md](https://github.com/kh1012/til/blob/main/2026/03/260327_reactive_calcpad_with_dag.md)
 - [260327_spreadjs_xlsx_file_selector.md](https://github.com/kh1012/til/blob/main/2026/03/260327_spreadjs_xlsx_file_selector.md)
 - [260327_tool_call_display_ux.md](https://github.com/kh1012/til/blob/main/2026/03/260327_tool_call_display_ux.md)
