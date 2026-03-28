@@ -49,6 +49,7 @@
 - [260328_projects_ui_polish_patterns.md](https://github.com/kh1012/til/blob/main/2026/03/260328_projects_ui_polish_patterns.md)
 - [260328_tailwind_group_hover_active.md](https://github.com/kh1012/til/blob/main/2026/03/260328_tailwind_group_hover_active.md)
 - [260328_test_suite_redesign.md](https://github.com/kh1012/til/blob/main/2026/03/260328_test_suite_redesign.md)
+- [260328_ui_polishing_micro_interactions.md](https://github.com/kh1012/til/blob/main/2026/03/260328_ui_polishing_micro_interactions.md)
 - [260327_claude_projects_clone_architecture.md](https://github.com/kh1012/til/blob/main/2026/03/260327_claude_projects_clone_architecture.md)
 - [260327_flat_tabs_breadcrumb_ux_pattern.md](https://github.com/kh1012/til/blob/main/2026/03/260327_flat_tabs_breadcrumb_ux_pattern.md)
 - [260327_fsd_ui_directory_restructure.md](https://github.com/kh1012/til/blob/main/2026/03/260327_fsd_ui_directory_restructure.md)
