@@ -49,6 +49,7 @@
 - [260331_mathjs_ast_node_types.md](https://github.com/kh1012/til/blob/main/2026/03/260331_mathjs_ast_node_types.md)
 - [260331_platform_aware_system_prompt.md](https://github.com/kh1012/til/blob/main/2026/03/260331_platform_aware_system_prompt.md)
 - [260331_react_chat_ui_render_optimization.md](https://github.com/kh1012/til/blob/main/2026/03/260331_react_chat_ui_render_optimization.md)
+- [260331_spreadjs_visualization_pipeline.md](https://github.com/kh1012/til/blob/main/2026/03/260331_spreadjs_visualization_pipeline.md)
 - [260330_project_design_system_refactoring.md](https://github.com/kh1012/til/blob/main/2026/03/260330_project_design_system_refactoring.md)
 - [260328_projects_ui_polish_patterns.md](https://github.com/kh1012/til/blob/main/2026/03/260328_projects_ui_polish_patterns.md)
 - [260328_tailwind_group_hover_active.md](https://github.com/kh1012/til/blob/main/2026/03/260328_tailwind_group_hover_active.md)
