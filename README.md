@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260331_claude_code_notification_hook.md](https://github.com/kh1012/til/blob/main/2026/03/260331_claude_code_notification_hook.md)
 - [260331_mathjs_ast_node_types.md](https://github.com/kh1012/til/blob/main/2026/03/260331_mathjs_ast_node_types.md)
 - [260331_platform_aware_system_prompt.md](https://github.com/kh1012/til/blob/main/2026/03/260331_platform_aware_system_prompt.md)
 - [260331_react_chat_ui_render_optimization.md](https://github.com/kh1012/til/blob/main/2026/03/260331_react_chat_ui_render_optimization.md)
