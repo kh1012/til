@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260403_jotai_atomwithstorage_hydration_race.md](https://github.com/kh1012/til/blob/main/2026/04/260403_jotai_atomwithstorage_hydration_race.md)
+- [260402_slash_command_ime_composition.md](https://github.com/kh1012/til/blob/main/2026/04/260402_slash_command_ime_composition.md)
 - [260401_cmd_qa_automated_design_system_audit.md](https://github.com/kh1012/til/blob/main/2026/04/260401_cmd_qa_automated_design_system_audit.md)
 - [260401_css_mask_composite_spinner_border.md](https://github.com/kh1012/til/blob/main/2026/04/260401_css_mask_composite_spinner_border.md)
 - [260401_harness_engineering_journey.md](https://github.com/kh1012/til/blob/main/2026/04/260401_harness_engineering_journey.md)
