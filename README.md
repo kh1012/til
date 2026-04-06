@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260406_intersection_observer.md](https://github.com/kh1012/til/blob/main/2026/04/260406_intersection_observer.md)
 - [260405_bottomsheet_enter_animation_pattern.md](https://github.com/kh1012/til/blob/main/2026/04/260405_bottomsheet_enter_animation_pattern.md)
 - [260404_react_playground_with_monaco_babel.md](https://github.com/kh1012/til/blob/main/2026/04/260404_react_playground_with_monaco_babel.md)
 - [260403_jotai_atomwithstorage_hydration_race.md](https://github.com/kh1012/til/blob/main/2026/04/260403_jotai_atomwithstorage_hydration_race.md)
