@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260407_platform_conditional_rendering.md](https://github.com/kh1012/til/blob/main/2026/04/260407_platform_conditional_rendering.md)
+- [260407_thread_source_clientmode_bug.md](https://github.com/kh1012/til/blob/main/2026/04/260407_thread_source_clientmode_bug.md)
 - [260406_intersection_observer.md](https://github.com/kh1012/til/blob/main/2026/04/260406_intersection_observer.md)
 - [260406_react_component_design_principles.md](https://github.com/kh1012/til/blob/main/2026/04/260406_react_component_design_principles.md)
 - [260405_bottomsheet_enter_animation_pattern.md](https://github.com/kh1012/til/blob/main/2026/04/260405_bottomsheet_enter_animation_pattern.md)
