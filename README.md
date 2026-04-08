@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260408_workflow_execution_engine_clean_architecture.md](https://github.com/kh1012/til/blob/main/2026/04/260408_workflow_execution_engine_clean_architecture.md)
 - [260407_css_variable_theme_comparison_tool.md](https://github.com/kh1012/til/blob/main/2026/04/260407_css_variable_theme_comparison_tool.md)
 - [260407_design_token_abstraction_audit.md](https://github.com/kh1012/til/blob/main/2026/04/260407_design_token_abstraction_audit.md)
 - [260407_platform_conditional_rendering.md](https://github.com/kh1012/til/blob/main/2026/04/260407_platform_conditional_rendering.md)
