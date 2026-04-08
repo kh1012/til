@@ -3,7 +3,7 @@ draft: true
 type: "content"
 domain: "frontend"
 category: "css-in-js"
-topic: "Emotion 핵심 패턴 4가지 — styled, props 조건부, css 헬퍼, GlobalPortal 모달"
+topic: "Emotion 핵심 패턴 4가지 — styled, props 조건부, css 헬퍼, Portal 모달"
 updatedAt: "2026-04-08"
 
 satisfaction:
@@ -24,11 +24,11 @@ relatedCategories:
 
 # Emotion 핵심 패턴 4가지
 
-> styled, props 조건부 스타일, css 헬퍼 조합, GlobalPortal 모달까지 — Emotion을 실무에서 바로 쓸 수 있는 4가지 패턴 정리.
+> styled, props 조건부 스타일, css 헬퍼 조합, Portal 모달까지 — Emotion을 실무에서 바로 쓸 수 있는 4가지 패턴 정리.
 
 ## 배경
 
-toss-setup 보일러플레이트 기반 과제에서 Emotion을 처음 사용하게 되어, 핵심 패턴을 하나씩 직접 구현하며 익혔다.
+React + TypeScript 프로젝트에서 Emotion을 처음 사용하게 되어, 핵심 패턴을 하나씩 직접 구현하며 익혔다.
 
 ## 핵심 내용
 
@@ -122,26 +122,25 @@ const Card = styled.div`
 - 배열에서 `false`/`undefined`는 자동 무시됨
 - `transition`은 기본 스타일에, 변경값은 조건부 스타일에 분리해야 on/off 양쪽 다 부드럽게 전환됨
 
-### 4. GlobalPortal.Consumer 모달
+### 4. React Portal 모달
 
 Portal은 DOM 트리 최상위에 렌더링하여 부모의 `overflow`나 `z-index`에 갇히지 않게 한다.
 
 ```tsx
-import { GlobalPortal } from 'GlobalPortal';
+import { createPortal } from 'react-dom';
 
 // Overlay 클릭 → 닫힘, ModalBox 내부 클릭 → 전파 차단
-{isOpen && (
-  <GlobalPortal.Consumer>
-    <Overlay onClick={handleClose}>
-      <ModalBox onClick={(e) => e.stopPropagation()}>
-        <Title>제목</Title>
-        <ButtonGroup>
-          <Button variant="confirm" onClick={handleConfirm}>확인</Button>
-          <Button variant="cancel" onClick={handleClose}>취소</Button>
-        </ButtonGroup>
-      </ModalBox>
-    </Overlay>
-  </GlobalPortal.Consumer>
+{isOpen && createPortal(
+  <Overlay onClick={handleClose}>
+    <ModalBox onClick={(e) => e.stopPropagation()}>
+      <Title>제목</Title>
+      <ButtonGroup>
+        <Button variant="confirm" onClick={handleConfirm}>확인</Button>
+        <Button variant="cancel" onClick={handleClose}>취소</Button>
+      </ButtonGroup>
+    </ModalBox>
+  </Overlay>,
+  document.getElementById('portal-root')!
 )}
 ```
 
