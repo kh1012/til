@@ -48,6 +48,7 @@
 
 - [260409_avatar_stack_margin_transition.md](https://github.com/kh1012/til/blob/main/2026/04/260409_avatar_stack_margin_transition.md)
 - [260409_cmd_qa_driven_codebase_cleanup.md](https://github.com/kh1012/til/blob/main/2026/04/260409_cmd_qa_driven_codebase_cleanup.md)
+- [260409_hitl_sse_protocol.md](https://github.com/kh1012/til/blob/main/2026/04/260409_hitl_sse_protocol.md)
 - [260409_jotai_storage_revalidate.md](https://github.com/kh1012/til/blob/main/2026/04/260409_jotai_storage_revalidate.md)
 - [260409_popover_modal_pattern.md](https://github.com/kh1012/til/blob/main/2026/04/260409_popover_modal_pattern.md)
 - [260408_emotion_core_patterns.md](https://github.com/kh1012/til/blob/main/2026/04/260408_emotion_core_patterns.md)
