@@ -47,6 +47,7 @@
 ## 2026
 
 - [260414_claude_code_harness_engineering.md](https://github.com/kh1012/til/blob/main/2026/04/260414_claude_code_harness_engineering.md)
+- [260414_feature_flag_settings_page.md](https://github.com/kh1012/til/blob/main/2026/04/260414_feature_flag_settings_page.md)
 - [260414_login_popover_ux_patterns.md](https://github.com/kh1012/til/blob/main/2026/04/260414_login_popover_ux_patterns.md)
 - [260413_korean_ime_iscomposing.md](https://github.com/kh1012/til/blob/main/2026/04/260413_korean_ime_iscomposing.md)
 - [260413_react_url_state_sync_race_condition.md](https://github.com/kh1012/til/blob/main/2026/04/260413_react_url_state_sync_race_condition.md)
