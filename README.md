@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260415_virtuoso_scroll_pitfall.md](https://github.com/kh1012/til/blob/main/2026/04/260415_virtuoso_scroll_pitfall.md)
 - [260414_claude_code_harness_engineering.md](https://github.com/kh1012/til/blob/main/2026/04/260414_claude_code_harness_engineering.md)
 - [260414_feature_flag_settings_page.md](https://github.com/kh1012/til/blob/main/2026/04/260414_feature_flag_settings_page.md)
 - [260414_login_popover_ux_patterns.md](https://github.com/kh1012/til/blob/main/2026/04/260414_login_popover_ux_patterns.md)
