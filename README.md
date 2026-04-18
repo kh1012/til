@@ -46,6 +46,11 @@
 
 ## 2026
 
+- [260418_grep_basics.md](https://github.com/kh1012/til/blob/main/2026/04/260418_grep_basics.md)
+- [260416_mcp_integration_from_scratch.md](https://github.com/kh1012/til/blob/main/2026/04/260416_mcp_integration_from_scratch.md)
+- [260416_rough_notation_lifecycle.md](https://github.com/kh1012/til/blob/main/2026/04/260416_rough_notation_lifecycle.md)
+- [260416_settings_ux_and_model_selector_race.md](https://github.com/kh1012/til/blob/main/2026/04/260416_settings_ux_and_model_selector_race.md)
+- [260416_utopia_step_rescale_and_tool_bubble.md](https://github.com/kh1012/til/blob/main/2026/04/260416_utopia_step_rescale_and_tool_bubble.md)
 - [260415_rough_notation_streaming_animation.md](https://github.com/kh1012/til/blob/main/2026/04/260415_rough_notation_streaming_animation.md)
 - [260415_virtuoso_scroll_pitfall.md](https://github.com/kh1012/til/blob/main/2026/04/260415_virtuoso_scroll_pitfall.md)
 - [260414_claude_code_harness_engineering.md](https://github.com/kh1012/til/blob/main/2026/04/260414_claude_code_harness_engineering.md)
