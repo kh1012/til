@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260420_bottom_follow_scroll_debugging.md](https://github.com/kh1012/til/blob/main/2026/04/260420_bottom_follow_scroll_debugging.md)
 - [260418_grep_basics.md](https://github.com/kh1012/til/blob/main/2026/04/260418_grep_basics.md)
 - [260416_mcp_integration_from_scratch.md](https://github.com/kh1012/til/blob/main/2026/04/260416_mcp_integration_from_scratch.md)
 - [260416_rough_notation_lifecycle.md](https://github.com/kh1012/til/blob/main/2026/04/260416_rough_notation_lifecycle.md)
