@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260421_vercel_ai_sdk_chunk_vs_parts_layer.md](https://github.com/kh1012/til/blob/main/2026/04/260421_vercel_ai_sdk_chunk_vs_parts_layer.md)
 - [260420_bottom_follow_scroll_debugging.md](https://github.com/kh1012/til/blob/main/2026/04/260420_bottom_follow_scroll_debugging.md)
 - [260420_next_app_router_scroll_timing.md](https://github.com/kh1012/til/blob/main/2026/04/260420_next_app_router_scroll_timing.md)
 - [260420_toss_overlay_kit_pattern.md](https://github.com/kh1012/til/blob/main/2026/04/260420_toss_overlay_kit_pattern.md)
