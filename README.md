@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260422_hoist_local_dialog_to_global_atom_host.md](https://github.com/kh1012/til/blob/main/2026/04/260422_hoist_local_dialog_to_global_atom_host.md)
 - [260421_sse_display_shape_status_axis.md](https://github.com/kh1012/til/blob/main/2026/04/260421_sse_display_shape_status_axis.md)
 - [260421_vercel_ai_sdk_chunk_vs_parts_layer.md](https://github.com/kh1012/til/blob/main/2026/04/260421_vercel_ai_sdk_chunk_vs_parts_layer.md)
 - [260420_bottom_follow_scroll_debugging.md](https://github.com/kh1012/til/blob/main/2026/04/260420_bottom_follow_scroll_debugging.md)
