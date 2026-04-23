@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260423_scroll_intent_vs_metrics.md](https://github.com/kh1012/til/blob/main/2026/04/260423_scroll_intent_vs_metrics.md)
 - [260423_vercel_ai_sdk_sse_rendering_pipeline.md](https://github.com/kh1012/til/blob/main/2026/04/260423_vercel_ai_sdk_sse_rendering_pipeline.md)
 - [260422_hoist_local_dialog_to_global_atom_host.md](https://github.com/kh1012/til/blob/main/2026/04/260422_hoist_local_dialog_to_global_atom_host.md)
 - [260421_sse_display_shape_status_axis.md](https://github.com/kh1012/til/blob/main/2026/04/260421_sse_display_shape_status_axis.md)
