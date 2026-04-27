@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260427_tmux_team_orchestrator_pros_cons.md](https://github.com/kh1012/til/blob/main/2026/04/260427_tmux_team_orchestrator_pros_cons.md)
 - [260424_loop_timeline_v2_streaming_cards.md](https://github.com/kh1012/til/blob/main/2026/04/260424_loop_timeline_v2_streaming_cards.md)
 - [260423_scroll_intent_vs_metrics.md](https://github.com/kh1012/til/blob/main/2026/04/260423_scroll_intent_vs_metrics.md)
 - [260423_vercel_ai_sdk_sse_rendering_pipeline.md](https://github.com/kh1012/til/blob/main/2026/04/260423_vercel_ai_sdk_sse_rendering_pipeline.md)
