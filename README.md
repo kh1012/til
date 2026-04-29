@@ -47,6 +47,7 @@
 ## 2026
 
 - [260429_electron_shell_openpath.md](https://github.com/kh1012/til/blob/main/2026/04/260429_electron_shell_openpath.md)
+- [260429_instanced_mesh_flicker_and_electron_traps.md](https://github.com/kh1012/til/blob/main/2026/04/260429_instanced_mesh_flicker_and_electron_traps.md)
 - [260427_multi_pane_pdca_orchestration.md](https://github.com/kh1012/til/blob/main/2026/04/260427_multi_pane_pdca_orchestration.md)
 - [260427_threejs_instancedmesh_selection.md](https://github.com/kh1012/til/blob/main/2026/04/260427_threejs_instancedmesh_selection.md)
 - [260427_tmux_team_orchestrator_pros_cons.md](https://github.com/kh1012/til/blob/main/2026/04/260427_tmux_team_orchestrator_pros_cons.md)
