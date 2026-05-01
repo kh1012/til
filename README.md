@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260501_trackball_zoom_reverse.md](https://github.com/kh1012/til/blob/main/2026/05/260501_trackball_zoom_reverse.md)
 - [260430_multi_agent_doc_synthesis.md](https://github.com/kh1012/til/blob/main/2026/04/260430_multi_agent_doc_synthesis.md)
 - [260429_electron_shell_openpath.md](https://github.com/kh1012/til/blob/main/2026/04/260429_electron_shell_openpath.md)
 - [260429_instanced_mesh_flicker_and_electron_traps.md](https://github.com/kh1012/til/blob/main/2026/04/260429_instanced_mesh_flicker_and_electron_traps.md)
