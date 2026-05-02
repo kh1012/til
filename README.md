@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260502_editable_system_prompts_idb.md](https://github.com/kh1012/til/blob/main/2026/05/260502_editable_system_prompts_idb.md)
 - [260501_codex_hermes_combination_analysis.md](https://github.com/kh1012/til/blob/main/2026/05/260501_codex_hermes_combination_analysis.md)
 - [260501_graphify_knowledge_graph.md](https://github.com/kh1012/til/blob/main/2026/05/260501_graphify_knowledge_graph.md)
 - [260501_mcp_jsonrpc_transport.md](https://github.com/kh1012/til/blob/main/2026/05/260501_mcp_jsonrpc_transport.md)
