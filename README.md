@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260511_ouroboros_self_check.md](https://github.com/kh1012/til/blob/main/2026/05/260511_ouroboros_self_check.md)
 - [260505_ai_sdk_serial_job_executor_deadlock.md](https://github.com/kh1012/til/blob/main/2026/05/260505_ai_sdk_serial_job_executor_deadlock.md)
 - [260504_chat_scroll_layout_shift.md](https://github.com/kh1012/til/blob/main/2026/05/260504_chat_scroll_layout_shift.md)
 - [260502_editable_system_prompts_idb.md](https://github.com/kh1012/til/blob/main/2026/05/260502_editable_system_prompts_idb.md)
