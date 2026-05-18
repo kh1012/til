@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260518_api_latency_frontend.md](https://github.com/kh1012/til/blob/main/2026/05/260518_api_latency_frontend.md)
 - [260511_nextjs_use_client_boundary.md](https://github.com/kh1012/til/blob/main/2026/05/260511_nextjs_use_client_boundary.md)
 - [260511_ouroboros_self_check.md](https://github.com/kh1012/til/blob/main/2026/05/260511_ouroboros_self_check.md)
 - [260511_react_slider_commit_on_release.md](https://github.com/kh1012/til/blob/main/2026/05/260511_react_slider_commit_on_release.md)
