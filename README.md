@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260527_env_single_source_cleanup.md](https://github.com/kh1012/til/blob/main/2026/05/260527_env_single_source_cleanup.md)
+- [260527_maxflow_assistant_widget_redesign.md](https://github.com/kh1012/til/blob/main/2026/05/260527_maxflow_assistant_widget_redesign.md)
 - [260520_kmp_lps_array.md](https://github.com/kh1012/til/blob/main/2026/05/260520_kmp_lps_array.md)
 - [260518_api_latency_frontend.md](https://github.com/kh1012/til/blob/main/2026/05/260518_api_latency_frontend.md)
 - [260511_nextjs_use_client_boundary.md](https://github.com/kh1012/til/blob/main/2026/05/260511_nextjs_use_client_boundary.md)
