@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260528_assistant_message_search.md](https://github.com/kh1012/til/blob/main/2026/05/260528_assistant_message_search.md)
+- [260528_modeler_package_skeleton.md](https://github.com/kh1012/til/blob/main/2026/05/260528_modeler_package_skeleton.md)
 - [260527_env_single_source_cleanup.md](https://github.com/kh1012/til/blob/main/2026/05/260527_env_single_source_cleanup.md)
 - [260527_maxflow_assistant_widget_redesign.md](https://github.com/kh1012/til/blob/main/2026/05/260527_maxflow_assistant_widget_redesign.md)
 - [260520_kmp_lps_array.md](https://github.com/kh1012/til/blob/main/2026/05/260520_kmp_lps_array.md)
