@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260529_assistant_chat_ux.md](https://github.com/kh1012/til/blob/main/2026/05/260529_assistant_chat_ux.md)
+- [260529_assistant_context_architecture.md](https://github.com/kh1012/til/blob/main/2026/05/260529_assistant_context_architecture.md)
 - [260528_assistant_message_search.md](https://github.com/kh1012/til/blob/main/2026/05/260528_assistant_message_search.md)
 - [260528_modeler_package_skeleton.md](https://github.com/kh1012/til/blob/main/2026/05/260528_modeler_package_skeleton.md)
 - [260527_env_single_source_cleanup.md](https://github.com/kh1012/til/blob/main/2026/05/260527_env_single_source_cleanup.md)
