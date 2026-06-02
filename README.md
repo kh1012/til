@@ -47,6 +47,7 @@
 ## 2026
 
 - [260602_claude_code_statusline.md](https://github.com/kh1012/til/blob/main/2026/06/260602_claude_code_statusline.md)
+- [260602_shadcn_token_skin.md](https://github.com/kh1012/til/blob/main/2026/06/260602_shadcn_token_skin.md)
 - [260602_streamdown_latex_katex.md](https://github.com/kh1012/til/blob/main/2026/06/260602_streamdown_latex_katex.md)
 - [260602_tailwind_duplicate_import.md](https://github.com/kh1012/til/blob/main/2026/06/260602_tailwind_duplicate_import.md)
 - [260601_assistant_chat_polish.md](https://github.com/kh1012/til/blob/main/2026/06/260601_assistant_chat_polish.md)
