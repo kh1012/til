@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260604_shadcn_showroom_catalog.md](https://github.com/kh1012/til/blob/main/2026/06/260604_shadcn_showroom_catalog.md)
 - [260602_claude_code_statusline.md](https://github.com/kh1012/til/blob/main/2026/06/260602_claude_code_statusline.md)
 - [260602_shadcn_token_skin.md](https://github.com/kh1012/til/blob/main/2026/06/260602_shadcn_token_skin.md)
 - [260602_streamdown_latex_katex.md](https://github.com/kh1012/til/blob/main/2026/06/260602_streamdown_latex_katex.md)
