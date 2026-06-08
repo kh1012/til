@@ -47,6 +47,7 @@
 ## 2026
 
 - [260608_eslint_zero_refactor.md](https://github.com/kh1012/til/blob/main/2026/06/260608_eslint_zero_refactor.md)
+- [260608_frame_budget_measurement.md](https://github.com/kh1012/til/blob/main/2026/06/260608_frame_budget_measurement.md)
 - [260607_react_rendering_performance.md](https://github.com/kh1012/til/blob/main/2026/06/260607_react_rendering_performance.md)
 - [260605_assistant_markdown_shiki.md](https://github.com/kh1012/til/blob/main/2026/06/260605_assistant_markdown_shiki.md)
 - [260605_v2_primitives_promotion.md](https://github.com/kh1012/til/blob/main/2026/06/260605_v2_primitives_promotion.md)
