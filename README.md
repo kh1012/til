@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260609_assistant_v2_standardization.md](https://github.com/kh1012/til/blob/main/2026/06/260609_assistant_v2_standardization.md)
 - [260608_eslint_zero_refactor.md](https://github.com/kh1012/til/blob/main/2026/06/260608_eslint_zero_refactor.md)
 - [260608_frame_budget_measurement.md](https://github.com/kh1012/til/blob/main/2026/06/260608_frame_budget_measurement.md)
 - [260608_sentry_declarative_error_handling.md](https://github.com/kh1012/til/blob/main/2026/06/260608_sentry_declarative_error_handling.md)
