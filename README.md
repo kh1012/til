@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260611_design_web_library_embed.md](https://github.com/kh1012/til/blob/main/2026/06/260611_design_web_library_embed.md)
+- [260611_mcp_provider_etabs_split.md](https://github.com/kh1012/til/blob/main/2026/06/260611_mcp_provider_etabs_split.md)
 - [260609_assistant_v2_standardization.md](https://github.com/kh1012/til/blob/main/2026/06/260609_assistant_v2_standardization.md)
 - [260608_eslint_zero_refactor.md](https://github.com/kh1012/til/blob/main/2026/06/260608_eslint_zero_refactor.md)
 - [260608_frame_budget_measurement.md](https://github.com/kh1012/til/blob/main/2026/06/260608_frame_budget_measurement.md)
