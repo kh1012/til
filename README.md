@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260615_cad_web_package_ui_tokens.md](https://github.com/kh1012/til/blob/main/2026/06/260615_cad_web_package_ui_tokens.md)
+- [260615_workflow_to_be_routes_handoff.md](https://github.com/kh1012/til/blob/main/2026/06/260615_workflow_to_be_routes_handoff.md)
 - [260612_monorepo_vendor_sync.md](https://github.com/kh1012/til/blob/main/2026/06/260612_monorepo_vendor_sync.md)
 - [260611_design_web_library_embed.md](https://github.com/kh1012/til/blob/main/2026/06/260611_design_web_library_embed.md)
 - [260611_mcp_provider_etabs_split.md](https://github.com/kh1012/til/blob/main/2026/06/260611_mcp_provider_etabs_split.md)
