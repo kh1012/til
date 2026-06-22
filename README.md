@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260619_workflow_stage_entry_and_snb_status.md](https://github.com/kh1012/til/blob/main/2026/06/260619_workflow_stage_entry_and_snb_status.md)
+- [260619_workflow_use_client_boundary.md](https://github.com/kh1012/til/blob/main/2026/06/260619_workflow_use_client_boundary.md)
 - [260618_structural_risk_fix.md](https://github.com/kh1012/til/blob/main/2026/06/260618_structural_risk_fix.md)
 - [260618_workflow_workspace_renderer_registry.md](https://github.com/kh1012/til/blob/main/2026/06/260618_workflow_workspace_renderer_registry.md)
 - [260617_dashboard_direct_link_routing.md](https://github.com/kh1012/til/blob/main/2026/06/260617_dashboard_direct_link_routing.md)
