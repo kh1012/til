@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260622_packages_ui_abstraction_integration.md](https://github.com/kh1012/til/blob/main/2026/06/260622_packages_ui_abstraction_integration.md)
 - [260619_workflow_stage_entry_and_snb_status.md](https://github.com/kh1012/til/blob/main/2026/06/260619_workflow_stage_entry_and_snb_status.md)
 - [260619_workflow_use_client_boundary.md](https://github.com/kh1012/til/blob/main/2026/06/260619_workflow_use_client_boundary.md)
 - [260618_structural_risk_fix.md](https://github.com/kh1012/til/blob/main/2026/06/260618_structural_risk_fix.md)
