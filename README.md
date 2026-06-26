@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260626_origin_sync_workflow_controller_conflict.md](https://github.com/kh1012/til/blob/main/2026/06/260626_origin_sync_workflow_controller_conflict.md)
 - [260625_workflow_controller_anatomy_story.md](https://github.com/kh1012/til/blob/main/2026/06/260625_workflow_controller_anatomy_story.md)
 - [260624_model_import_timeout_troubleshooting.md](https://github.com/kh1012/til/blob/main/2026/06/260624_model_import_timeout_troubleshooting.md)
 - [260624_workflow_status_bar_icon_simplify.md](https://github.com/kh1012/til/blob/main/2026/06/260624_workflow_status_bar_icon_simplify.md)
