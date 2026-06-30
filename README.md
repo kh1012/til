@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260630_dashboard_figma_ink_tokens.md](https://github.com/kh1012/til/blob/main/2026/06/260630_dashboard_figma_ink_tokens.md)
+- [260630_header_artifact_tab_selector.md](https://github.com/kh1012/til/blob/main/2026/06/260630_header_artifact_tab_selector.md)
 - [260629_sds_monorepo_embed_dualmode.md](https://github.com/kh1012/til/blob/main/2026/06/260629_sds_monorepo_embed_dualmode.md)
 - [260629_workflow_controller_design_cleanup.md](https://github.com/kh1012/til/blob/main/2026/06/260629_workflow_controller_design_cleanup.md)
 - [260626_origin_sync_workflow_controller_conflict.md](https://github.com/kh1012/til/blob/main/2026/06/260626_origin_sync_workflow_controller_conflict.md)
