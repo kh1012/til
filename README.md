@@ -46,6 +46,9 @@
 
 ## 2026
 
+- [260701_cad_web_drawing_workspace.md](https://github.com/kh1012/til/blob/main/2026/07/260701_cad_web_drawing_workspace.md)
+- [260701_ui_composite_library.md](https://github.com/kh1012/til/blob/main/2026/07/260701_ui_composite_library.md)
+- [260701_workflow_routing_status_color.md](https://github.com/kh1012/til/blob/main/2026/07/260701_workflow_routing_status_color.md)
 - [260630_dashboard_figma_ink_tokens.md](https://github.com/kh1012/til/blob/main/2026/06/260630_dashboard_figma_ink_tokens.md)
 - [260630_header_artifact_tab_selector.md](https://github.com/kh1012/til/blob/main/2026/06/260630_header_artifact_tab_selector.md)
 - [260629_sds_monorepo_embed_dualmode.md](https://github.com/kh1012/til/blob/main/2026/06/260629_sds_monorepo_embed_dualmode.md)
