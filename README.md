@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260702_ui_layout_docking_app_integration.md](https://github.com/kh1012/til/blob/main/2026/07/260702_ui_layout_docking_app_integration.md)
+- [260702_workflow_panel_idea_statica_stage_edge.md](https://github.com/kh1012/til/blob/main/2026/07/260702_workflow_panel_idea_statica_stage_edge.md)
 - [260701_cad_web_drawing_workspace.md](https://github.com/kh1012/til/blob/main/2026/07/260701_cad_web_drawing_workspace.md)
 - [260701_ui_composite_library.md](https://github.com/kh1012/til/blob/main/2026/07/260701_ui_composite_library.md)
 - [260701_workflow_routing_status_color.md](https://github.com/kh1012/til/blob/main/2026/07/260701_workflow_routing_status_color.md)
