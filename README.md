@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260706_ui_harness_review_desk_curation.md](https://github.com/kh1012/til/blob/main/2026/07/260706_ui_harness_review_desk_curation.md)
 - [260703_assistant_thread_stabilize.md](https://github.com/kh1012/til/blob/main/2026/07/260703_assistant_thread_stabilize.md)
 - [260703_cad_web_batch_cleanup_ui.md](https://github.com/kh1012/til/blob/main/2026/07/260703_cad_web_batch_cleanup_ui.md)
 - [260703_view_switcher_workflow_rpm_day.md](https://github.com/kh1012/til/blob/main/2026/07/260703_view_switcher_workflow_rpm_day.md)
