@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260707_ui_harness_launcher_magnetic_cursor_promote.md](https://github.com/kh1012/til/blob/main/2026/07/260707_ui_harness_launcher_magnetic_cursor_promote.md)
 - [260706_ui_harness_review_desk_curation.md](https://github.com/kh1012/til/blob/main/2026/07/260706_ui_harness_review_desk_curation.md)
 - [260705_ui_harness_gallery_history_skill_stub.md](https://github.com/kh1012/til/blob/main/2026/07/260705_ui_harness_gallery_history_skill_stub.md)
 - [260704_ui_harness_bootstrap_gallery_hardening.md](https://github.com/kh1012/til/blob/main/2026/07/260704_ui_harness_bootstrap_gallery_hardening.md)
