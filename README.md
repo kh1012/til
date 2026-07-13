@@ -47,6 +47,7 @@
 ## 2026
 
 - [260713_ui_harness_props_schema_presets_editor.md](https://github.com/kh1012/til/blob/main/2026/07/260713_ui_harness_props_schema_presets_editor.md)
+- [260712_dual_gallery_symmetrization_page_editor.md](https://github.com/kh1012/til/blob/main/2026/07/260712_dual_gallery_symmetrization_page_editor.md)
 - [260708_ui_harness_promote_concurrency_multiagent.md](https://github.com/kh1012/til/blob/main/2026/07/260708_ui_harness_promote_concurrency_multiagent.md)
 - [260707_ui_harness_launcher_magnetic_cursor_promote.md](https://github.com/kh1012/til/blob/main/2026/07/260707_ui_harness_launcher_magnetic_cursor_promote.md)
 - [260706_ui_harness_review_desk_curation.md](https://github.com/kh1012/til/blob/main/2026/07/260706_ui_harness_review_desk_curation.md)
