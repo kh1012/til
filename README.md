@@ -51,6 +51,8 @@
 - [260719_gallery_chrome_lint_token_compliance.md](https://github.com/kh1012/til/blob/main/2026/07/260719_gallery_chrome_lint_token_compliance.md)
 - [260719_gallery_layout_model_codegen.md](https://github.com/kh1012/til/blob/main/2026/07/260719_gallery_layout_model_codegen.md)
 - [260719_page_harness_perf_baseline.md](https://github.com/kh1012/til/blob/main/2026/07/260719_page_harness_perf_baseline.md)
+- [260718_gallery_editor_authoring_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260718_gallery_editor_authoring_polish.md)
+- [260718_gallery_figma_chrome_compliance.md](https://github.com/kh1012/til/blob/main/2026/07/260718_gallery_figma_chrome_compliance.md)
 - [260713_ui_harness_props_schema_presets_editor.md](https://github.com/kh1012/til/blob/main/2026/07/260713_ui_harness_props_schema_presets_editor.md)
 - [260712_dual_gallery_symmetrization_page_editor.md](https://github.com/kh1012/til/blob/main/2026/07/260712_dual_gallery_symmetrization_page_editor.md)
 - [260711_page_harness_canvas_visual_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260711_page_harness_canvas_visual_polish.md)
