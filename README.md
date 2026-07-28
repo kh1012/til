@@ -50,6 +50,8 @@
 - [260728_source_size_policy_mass_split.md](https://github.com/kh1012/til/blob/main/2026/07/260728_source_size_policy_mass_split.md)
 - [260727_page_harness_shortcut_shift_bulk_delete.md](https://github.com/kh1012/til/blob/main/2026/07/260727_page_harness_shortcut_shift_bulk_delete.md)
 - [260726_page_harness_version_snapshot_diff_recover.md](https://github.com/kh1012/til/blob/main/2026/07/260726_page_harness_version_snapshot_diff_recover.md)
+- [260725_page_harness_canvas_pan_capture_shortcut.md](https://github.com/kh1012/til/blob/main/2026/07/260725_page_harness_canvas_pan_capture_shortcut.md)
+- [260725_page_harness_gallery_url_state_trash.md](https://github.com/kh1012/til/blob/main/2026/07/260725_page_harness_gallery_url_state_trash.md)
 - [260722_page_harness_native_swap_iframe_coords.md](https://github.com/kh1012/til/blob/main/2026/07/260722_page_harness_native_swap_iframe_coords.md)
 - [260721_page_harness_figma_editor_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260721_page_harness_figma_editor_polish.md)
 - [260720_page_harness_figma_dock_context_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260720_page_harness_figma_dock_context_polish.md)
