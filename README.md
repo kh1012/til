@@ -52,6 +52,8 @@
 - [260726_page_harness_version_snapshot_diff_recover.md](https://github.com/kh1012/til/blob/main/2026/07/260726_page_harness_version_snapshot_diff_recover.md)
 - [260725_page_harness_canvas_pan_capture_shortcut.md](https://github.com/kh1012/til/blob/main/2026/07/260725_page_harness_canvas_pan_capture_shortcut.md)
 - [260725_page_harness_gallery_url_state_trash.md](https://github.com/kh1012/til/blob/main/2026/07/260725_page_harness_gallery_url_state_trash.md)
+- [260724_component_animation_contract_end_to_end.md](https://github.com/kh1012/til/blob/main/2026/07/260724_component_animation_contract_end_to_end.md)
+- [260724_page_harness_editor_recovery_a11y_list.md](https://github.com/kh1012/til/blob/main/2026/07/260724_page_harness_editor_recovery_a11y_list.md)
 - [260722_page_harness_native_swap_iframe_coords.md](https://github.com/kh1012/til/blob/main/2026/07/260722_page_harness_native_swap_iframe_coords.md)
 - [260721_page_harness_figma_editor_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260721_page_harness_figma_editor_polish.md)
 - [260720_page_harness_figma_dock_context_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260720_page_harness_figma_dock_context_polish.md)
