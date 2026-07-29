@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260729_ui_harness_page_playground_prototype_flows.md](https://github.com/kh1012/til/blob/main/2026/07/260729_ui_harness_page_playground_prototype_flows.md)
+- [260729_web_cad_web_creation_entry_perf.md](https://github.com/kh1012/til/blob/main/2026/07/260729_web_cad_web_creation_entry_perf.md)
 - [260728_cad_web_dxf_reload_identity.md](https://github.com/kh1012/til/blob/main/2026/07/260728_cad_web_dxf_reload_identity.md)
 - [260728_source_size_policy_mass_split.md](https://github.com/kh1012/til/blob/main/2026/07/260728_source_size_policy_mass_split.md)
 - [260727_page_harness_shortcut_shift_bulk_delete.md](https://github.com/kh1012/til/blob/main/2026/07/260727_page_harness_shortcut_shift_bulk_delete.md)
