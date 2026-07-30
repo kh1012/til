@@ -46,6 +46,8 @@
 
 ## 2026
 
+- [260730_cad_web_progressive_load_merge.md](https://github.com/kh1012/til/blob/main/2026/07/260730_cad_web_progressive_load_merge.md)
+- [260730_ui_harness_pipeline_narrowing_agent_run.md](https://github.com/kh1012/til/blob/main/2026/07/260730_ui_harness_pipeline_narrowing_agent_run.md)
 - [260729_ui_harness_page_playground_prototype_flows.md](https://github.com/kh1012/til/blob/main/2026/07/260729_ui_harness_page_playground_prototype_flows.md)
 - [260729_web_cad_web_creation_entry_perf.md](https://github.com/kh1012/til/blob/main/2026/07/260729_web_cad_web_creation_entry_perf.md)
 - [260728_cad_web_dxf_reload_identity.md](https://github.com/kh1012/til/blob/main/2026/07/260728_cad_web_dxf_reload_identity.md)
