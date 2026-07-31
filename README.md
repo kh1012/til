@@ -46,6 +46,9 @@
 
 ## 2026
 
+- [260731_gallery_home_component_detail_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260731_gallery_home_component_detail_polish.md)
+- [260731_ui_harness_deprecated_lifecycle.md](https://github.com/kh1012/til/blob/main/2026/07/260731_ui_harness_deprecated_lifecycle.md)
+- [260731_ui_harness_run_dock_agent_terminal.md](https://github.com/kh1012/til/blob/main/2026/07/260731_ui_harness_run_dock_agent_terminal.md)
 - [260730_cad_web_progressive_load_merge.md](https://github.com/kh1012/til/blob/main/2026/07/260730_cad_web_progressive_load_merge.md)
 - [260730_ui_harness_pipeline_narrowing_agent_run.md](https://github.com/kh1012/til/blob/main/2026/07/260730_ui_harness_pipeline_narrowing_agent_run.md)
 - [260729_ui_harness_page_playground_prototype_flows.md](https://github.com/kh1012/til/blob/main/2026/07/260729_ui_harness_page_playground_prototype_flows.md)
