@@ -53,6 +53,8 @@
 - [260803_ui_regression_night_pipeline.md](https://github.com/kh1012/til/blob/main/2026/08/260803_ui_regression_night_pipeline.md)
 - [260802_ui_harness_flow_intent_layer.md](https://github.com/kh1012/til/blob/main/2026/08/260802_ui_harness_flow_intent_layer.md)
 - [260802_ui_harness_nickname_avatar_identity.md](https://github.com/kh1012/til/blob/main/2026/08/260802_ui_harness_nickname_avatar_identity.md)
+- [260801_ui_harness_pilled_selector_unify.md](https://github.com/kh1012/til/blob/main/2026/08/260801_ui_harness_pilled_selector_unify.md)
+- [260801_ui_harness_usage_and_actor.md](https://github.com/kh1012/til/blob/main/2026/08/260801_ui_harness_usage_and_actor.md)
 - [260731_gallery_home_component_detail_polish.md](https://github.com/kh1012/til/blob/main/2026/07/260731_gallery_home_component_detail_polish.md)
 - [260731_ui_harness_deprecated_lifecycle.md](https://github.com/kh1012/til/blob/main/2026/07/260731_ui_harness_deprecated_lifecycle.md)
 - [260731_ui_harness_run_dock_agent_terminal.md](https://github.com/kh1012/til/blob/main/2026/07/260731_ui_harness_run_dock_agent_terminal.md)
