@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260813_action_log_schema_undo_redo.md](https://github.com/kh1012/til/blob/main/2026/08/260813_action_log_schema_undo_redo.md)
 - [260811_gallery_git_write_blocking_cost.md](https://github.com/kh1012/til/blob/main/2026/08/260811_gallery_git_write_blocking_cost.md)
 - [260804_agent_run_log_context_restore.md](https://github.com/kh1012/til/blob/main/2026/08/260804_agent_run_log_context_restore.md)
 - [260804_ui_harness_deprecate_and_clone.md](https://github.com/kh1012/til/blob/main/2026/08/260804_ui_harness_deprecate_and_clone.md)
