@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260814_weakmap_reference_cache_for_render_hot_path.md](https://github.com/kh1012/til/blob/main/2026/08/260814_weakmap_reference_cache_for_render_hot_path.md)
 - [260813_action_log_schema_undo_redo.md](https://github.com/kh1012/til/blob/main/2026/08/260813_action_log_schema_undo_redo.md)
 - [260811_gallery_git_write_blocking_cost.md](https://github.com/kh1012/til/blob/main/2026/08/260811_gallery_git_write_blocking_cost.md)
 - [260804_agent_run_log_context_restore.md](https://github.com/kh1012/til/blob/main/2026/08/260804_agent_run_log_context_restore.md)
