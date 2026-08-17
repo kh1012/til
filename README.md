@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260816_run_boundary_fingerprint_diff_for_story_impact.md](https://github.com/kh1012/til/blob/main/2026/08/260816_run_boundary_fingerprint_diff_for_story_impact.md)
 - [260815_mixed_corners_shape_drift_false_positive.md](https://github.com/kh1012/til/blob/main/2026/08/260815_mixed_corners_shape_drift_false_positive.md)
 - [260814_weakmap_reference_cache_for_render_hot_path.md](https://github.com/kh1012/til/blob/main/2026/08/260814_weakmap_reference_cache_for_render_hot_path.md)
 - [260813_action_log_schema_undo_redo.md](https://github.com/kh1012/til/blob/main/2026/08/260813_action_log_schema_undo_redo.md)
