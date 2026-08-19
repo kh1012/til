@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260818_shape_gate_on_existing_declared_violation_engine.md](https://github.com/kh1012/til/blob/main/2026/08/260818_shape_gate_on_existing_declared_violation_engine.md)
 - [260817_wrap_dont_target_thirdparty_internal_classes.md](https://github.com/kh1012/til/blob/main/2026/08/260817_wrap_dont_target_thirdparty_internal_classes.md)
 - [260816_run_boundary_fingerprint_diff_for_story_impact.md](https://github.com/kh1012/til/blob/main/2026/08/260816_run_boundary_fingerprint_diff_for_story_impact.md)
 - [260815_mixed_corners_shape_drift_false_positive.md](https://github.com/kh1012/til/blob/main/2026/08/260815_mixed_corners_shape_drift_false_positive.md)
