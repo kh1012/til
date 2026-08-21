@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260820_anchored_popover_viewport_clip_fallback.md](https://github.com/kh1012/til/blob/main/2026/08/260820_anchored_popover_viewport_clip_fallback.md)
 - [260819_reuse_first_component_create_registry_search.md](https://github.com/kh1012/til/blob/main/2026/08/260819_reuse_first_component_create_registry_search.md)
 - [260818_shape_gate_on_existing_declared_violation_engine.md](https://github.com/kh1012/til/blob/main/2026/08/260818_shape_gate_on_existing_declared_violation_engine.md)
 - [260817_wrap_dont_target_thirdparty_internal_classes.md](https://github.com/kh1012/til/blob/main/2026/08/260817_wrap_dont_target_thirdparty_internal_classes.md)
