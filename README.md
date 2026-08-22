@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260821_explicit_failure_signal_channel_for_edit_overlay.md](https://github.com/kh1012/til/blob/main/2026/08/260821_explicit_failure_signal_channel_for_edit_overlay.md)
 - [260820_anchored_popover_viewport_clip_fallback.md](https://github.com/kh1012/til/blob/main/2026/08/260820_anchored_popover_viewport_clip_fallback.md)
 - [260819_reuse_first_component_create_registry_search.md](https://github.com/kh1012/til/blob/main/2026/08/260819_reuse_first_component_create_registry_search.md)
 - [260818_shape_gate_on_existing_declared_violation_engine.md](https://github.com/kh1012/til/blob/main/2026/08/260818_shape_gate_on_existing_declared_violation_engine.md)
