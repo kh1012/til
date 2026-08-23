@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260822_reachability_check_for_silent_nid_edit_failure.md](https://github.com/kh1012/til/blob/main/2026/08/260822_reachability_check_for_silent_nid_edit_failure.md)
 - [260821_explicit_failure_signal_channel_for_edit_overlay.md](https://github.com/kh1012/til/blob/main/2026/08/260821_explicit_failure_signal_channel_for_edit_overlay.md)
 - [260820_anchored_popover_viewport_clip_fallback.md](https://github.com/kh1012/til/blob/main/2026/08/260820_anchored_popover_viewport_clip_fallback.md)
 - [260819_reuse_first_component_create_registry_search.md](https://github.com/kh1012/til/blob/main/2026/08/260819_reuse_first_component_create_registry_search.md)
