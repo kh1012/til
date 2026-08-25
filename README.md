@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260824_shared_ownership_filter_used_for_both_inheritance_and_display.md](https://github.com/kh1012/til/blob/main/2026/08/260824_shared_ownership_filter_used_for_both_inheritance_and_display.md)
 - [260823_partial_version_restore_missing_files_announcement.md](https://github.com/kh1012/til/blob/main/2026/08/260823_partial_version_restore_missing_files_announcement.md)
 - [260822_reachability_check_for_silent_nid_edit_failure.md](https://github.com/kh1012/til/blob/main/2026/08/260822_reachability_check_for_silent_nid_edit_failure.md)
 - [260821_explicit_failure_signal_channel_for_edit_overlay.md](https://github.com/kh1012/til/blob/main/2026/08/260821_explicit_failure_signal_channel_for_edit_overlay.md)
