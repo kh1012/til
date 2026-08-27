@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260826_stale_gallery_preview_call_site_missed_in_api_rename.md](https://github.com/kh1012/til/blob/main/2026/08/260826_stale_gallery_preview_call_site_missed_in_api_rename.md)
 - [260825_iframe_sandbox_boundary_for_component_preview_harness.md](https://github.com/kh1012/til/blob/main/2026/08/260825_iframe_sandbox_boundary_for_component_preview_harness.md)
 - [260824_shared_ownership_filter_used_for_both_inheritance_and_display.md](https://github.com/kh1012/til/blob/main/2026/08/260824_shared_ownership_filter_used_for_both_inheritance_and_display.md)
 - [260823_partial_version_restore_missing_files_announcement.md](https://github.com/kh1012/til/blob/main/2026/08/260823_partial_version_restore_missing_files_announcement.md)
