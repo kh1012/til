@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260902_harnessroot_silently_wrong_path_after_physical_package_move.md](https://github.com/kh1012/til/blob/main/2026/09/260902_harnessroot_silently_wrong_path_after_physical_package_move.md)
 - [260831_fold_table_prevents_css_variable_self_reference_collapse.md](https://github.com/kh1012/til/blob/main/2026/08/260831_fold_table_prevents_css_variable_self_reference_collapse.md)
 - [260830_getbyrole_fails_when_ancestor_has_aria_hidden.md](https://github.com/kh1012/til/blob/main/2026/08/260830_getbyrole_fails_when_ancestor_has_aria_hidden.md)
 - [260827_shared_worktree_registry_rewrite_blast_radius.md](https://github.com/kh1012/til/blob/main/2026/08/260827_shared_worktree_registry_rewrite_blast_radius.md)
