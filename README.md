@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260906_skill_split_decision_measured_by_arena_isolation.md](https://github.com/kh1012/til/blob/main/2026/09/260906_skill_split_decision_measured_by_arena_isolation.md)
 - [260903_git_mv_stages_deletion_hides_missing_pathspec.md](https://github.com/kh1012/til/blob/main/2026/09/260903_git_mv_stages_deletion_hides_missing_pathspec.md)
 - [260902_harnessroot_silently_wrong_path_after_physical_package_move.md](https://github.com/kh1012/til/blob/main/2026/09/260902_harnessroot_silently_wrong_path_after_physical_package_move.md)
 - [260831_fold_table_prevents_css_variable_self_reference_collapse.md](https://github.com/kh1012/til/blob/main/2026/08/260831_fold_table_prevents_css_variable_self_reference_collapse.md)
