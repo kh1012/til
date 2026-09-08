@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260907_freshness_pathspec_scoping_misses_shared_package_changes.md](https://github.com/kh1012/til/blob/main/2026/09/260907_freshness_pathspec_scoping_misses_shared_package_changes.md)
 - [260906_skill_split_decision_measured_by_arena_isolation.md](https://github.com/kh1012/til/blob/main/2026/09/260906_skill_split_decision_measured_by_arena_isolation.md)
 - [260903_git_mv_stages_deletion_hides_missing_pathspec.md](https://github.com/kh1012/til/blob/main/2026/09/260903_git_mv_stages_deletion_hides_missing_pathspec.md)
 - [260902_harnessroot_silently_wrong_path_after_physical_package_move.md](https://github.com/kh1012/til/blob/main/2026/09/260902_harnessroot_silently_wrong_path_after_physical_package_move.md)
