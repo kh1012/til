@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260909_design_gate_self_approval_via_design_exceptions.md](https://github.com/kh1012/til/blob/main/2026/09/260909_design_gate_self_approval_via_design_exceptions.md)
 - [260908_atelier_server_registry_split_brain_from_silent_env_default.md](https://github.com/kh1012/til/blob/main/2026/09/260908_atelier_server_registry_split_brain_from_silent_env_default.md)
 - [260907_freshness_pathspec_scoping_misses_shared_package_changes.md](https://github.com/kh1012/til/blob/main/2026/09/260907_freshness_pathspec_scoping_misses_shared_package_changes.md)
 - [260906_skill_split_decision_measured_by_arena_isolation.md](https://github.com/kh1012/til/blob/main/2026/09/260906_skill_split_decision_measured_by_arena_isolation.md)
