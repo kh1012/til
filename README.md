@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260914_macos_var_symlink_breaks_relative_to_containment_check.md](https://github.com/kh1012/til/blob/main/2026/09/260914_macos_var_symlink_breaks_relative_to_containment_check.md)
 - [260910_boot_update_dialog_deadlock_from_onboarding_early_return.md](https://github.com/kh1012/til/blob/main/2026/09/260910_boot_update_dialog_deadlock_from_onboarding_early_return.md)
 - [260909_design_gate_self_approval_via_design_exceptions.md](https://github.com/kh1012/til/blob/main/2026/09/260909_design_gate_self_approval_via_design_exceptions.md)
 - [260908_atelier_server_registry_split_brain_from_silent_env_default.md](https://github.com/kh1012/til/blob/main/2026/09/260908_atelier_server_registry_split_brain_from_silent_env_default.md)
