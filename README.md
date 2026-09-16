@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260915_list_height_trim_removes_scroll_affordance_on_zero_width_scrollbar.md](https://github.com/kh1012/til/blob/main/2026/09/260915_list_height_trim_removes_scroll_affordance_on_zero_width_scrollbar.md)
 - [260914_macos_var_symlink_breaks_relative_to_containment_check.md](https://github.com/kh1012/til/blob/main/2026/09/260914_macos_var_symlink_breaks_relative_to_containment_check.md)
 - [260910_boot_update_dialog_deadlock_from_onboarding_early_return.md](https://github.com/kh1012/til/blob/main/2026/09/260910_boot_update_dialog_deadlock_from_onboarding_early_return.md)
 - [260909_design_gate_self_approval_via_design_exceptions.md](https://github.com/kh1012/til/blob/main/2026/09/260909_design_gate_self_approval_via_design_exceptions.md)
