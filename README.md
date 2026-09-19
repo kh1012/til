@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260918_omitted_props_left_a_shared_hook_wired_to_nothing.md](https://github.com/kh1012/til/blob/main/2026/09/260918_omitted_props_left_a_shared_hook_wired_to_nothing.md)
 - [260917_client_side_run_blocking_duplicated_server_queue_guarantee.md](https://github.com/kh1012/til/blob/main/2026/09/260917_client_side_run_blocking_duplicated_server_queue_guarantee.md)
 - [260916_stale_pane_target_snapshot_overrides_live_story_state.md](https://github.com/kh1012/til/blob/main/2026/09/260916_stale_pane_target_snapshot_overrides_live_story_state.md)
 - [260915_list_height_trim_removes_scroll_affordance_on_zero_width_scrollbar.md](https://github.com/kh1012/til/blob/main/2026/09/260915_list_height_trim_removes_scroll_affordance_on_zero_width_scrollbar.md)
