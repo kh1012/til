@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260921_fiber_debug_stack_gives_readonly_element_boundary_data_slot_cannot.md](https://github.com/kh1012/til/blob/main/2026/09/260921_fiber_debug_stack_gives_readonly_element_boundary_data_slot_cannot.md)
 - [260920_circular_import_breaks_const_arrow_function_hoisting.md](https://github.com/kh1012/til/blob/main/2026/09/260920_circular_import_breaks_const_arrow_function_hoisting.md)
 - [260919_terminal_took_over_kind_picking_canvas_buttons_became_duplicate.md](https://github.com/kh1012/til/blob/main/2026/09/260919_terminal_took_over_kind_picking_canvas_buttons_became_duplicate.md)
 - [260918_omitted_props_left_a_shared_hook_wired_to_nothing.md](https://github.com/kh1012/til/blob/main/2026/09/260918_omitted_props_left_a_shared_hook_wired_to_nothing.md)
