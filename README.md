@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260923_skeleton_shimmer_shared_default.md](https://github.com/kh1012/til/blob/main/2026/09/260923_skeleton_shimmer_shared_default.md)
 - [260922_registry_search_cache_key_blind_to_in_place_overwrite_mtime.md](https://github.com/kh1012/til/blob/main/2026/09/260922_registry_search_cache_key_blind_to_in_place_overwrite_mtime.md)
 - [260921_fiber_debug_stack_gives_readonly_element_boundary_data_slot_cannot.md](https://github.com/kh1012/til/blob/main/2026/09/260921_fiber_debug_stack_gives_readonly_element_boundary_data_slot_cannot.md)
 - [260920_circular_import_breaks_const_arrow_function_hoisting.md](https://github.com/kh1012/til/blob/main/2026/09/260920_circular_import_breaks_const_arrow_function_hoisting.md)
