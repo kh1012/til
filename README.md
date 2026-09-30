@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260929_docs_card_partial_status_ignored_by_section_completeness_test.md](https://github.com/kh1012/til/blob/main/2026/09/260929_docs_card_partial_status_ignored_by_section_completeness_test.md)
 - [260926_e2e_entry_mutations_flaky_parallel_worker_timeout.md](https://github.com/kh1012/til/blob/main/2026/09/260926_e2e_entry_mutations_flaky_parallel_worker_timeout.md)
 - [260923_skeleton_shimmer_shared_default.md](https://github.com/kh1012/til/blob/main/2026/09/260923_skeleton_shimmer_shared_default.md)
 - [260922_registry_search_cache_key_blind_to_in_place_overwrite_mtime.md](https://github.com/kh1012/til/blob/main/2026/09/260922_registry_search_cache_key_blind_to_in_place_overwrite_mtime.md)
