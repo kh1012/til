@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [260930_preview_chrome_css_scope_separation.md](https://github.com/kh1012/til/blob/main/2026/09/260930_preview_chrome_css_scope_separation.md)
 - [260929_docs_card_partial_status_ignored_by_section_completeness_test.md](https://github.com/kh1012/til/blob/main/2026/09/260929_docs_card_partial_status_ignored_by_section_completeness_test.md)
 - [260926_e2e_entry_mutations_flaky_parallel_worker_timeout.md](https://github.com/kh1012/til/blob/main/2026/09/260926_e2e_entry_mutations_flaky_parallel_worker_timeout.md)
 - [260923_skeleton_shimmer_shared_default.md](https://github.com/kh1012/til/blob/main/2026/09/260923_skeleton_shimmer_shared_default.md)
