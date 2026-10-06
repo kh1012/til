@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261005_deploy_workspace_root_detection.md](https://github.com/kh1012/til/blob/main/2026/10/261005_deploy_workspace_root_detection.md)
 - [261002_atelier_health_gate_availability_fallback.md](https://github.com/kh1012/til/blob/main/2026/10/261002_atelier_health_gate_availability_fallback.md)
 - [260930_preview_chrome_css_scope_separation.md](https://github.com/kh1012/til/blob/main/2026/09/260930_preview_chrome_css_scope_separation.md)
 - [260929_docs_card_partial_status_ignored_by_section_completeness_test.md](https://github.com/kh1012/til/blob/main/2026/09/260929_docs_card_partial_status_ignored_by_section_completeness_test.md)
