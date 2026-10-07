@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261006_sync_outside_workbench_commit_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261006_sync_outside_workbench_commit_guard.md)
 - [261005_deploy_workspace_root_detection.md](https://github.com/kh1012/til/blob/main/2026/10/261005_deploy_workspace_root_detection.md)
 - [261002_atelier_health_gate_availability_fallback.md](https://github.com/kh1012/til/blob/main/2026/10/261002_atelier_health_gate_availability_fallback.md)
 - [260930_preview_chrome_css_scope_separation.md](https://github.com/kh1012/til/blob/main/2026/09/260930_preview_chrome_css_scope_separation.md)
