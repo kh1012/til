@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261007_table_vertical_nav_ime_composition_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261007_table_vertical_nav_ime_composition_guard.md)
 - [261006_sync_outside_workbench_commit_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261006_sync_outside_workbench_commit_guard.md)
 - [261005_deploy_workspace_root_detection.md](https://github.com/kh1012/til/blob/main/2026/10/261005_deploy_workspace_root_detection.md)
 - [261002_atelier_health_gate_availability_fallback.md](https://github.com/kh1012/til/blob/main/2026/10/261002_atelier_health_gate_availability_fallback.md)
