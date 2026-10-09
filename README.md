@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261008_e2e_selector_dom_hierarchy_mismatch.md](https://github.com/kh1012/til/blob/main/2026/10/261008_e2e_selector_dom_hierarchy_mismatch.md)
 - [261007_table_vertical_nav_ime_composition_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261007_table_vertical_nav_ime_composition_guard.md)
 - [261006_sync_outside_workbench_commit_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261006_sync_outside_workbench_commit_guard.md)
 - [261005_deploy_workspace_root_detection.md](https://github.com/kh1012/til/blob/main/2026/10/261005_deploy_workspace_root_detection.md)
