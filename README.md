@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261009_fast_mode_chat_skin_display_behavior_split.md](https://github.com/kh1012/til/blob/main/2026/10/261009_fast_mode_chat_skin_display_behavior_split.md)
 - [261008_e2e_selector_dom_hierarchy_mismatch.md](https://github.com/kh1012/til/blob/main/2026/10/261008_e2e_selector_dom_hierarchy_mismatch.md)
 - [261007_table_vertical_nav_ime_composition_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261007_table_vertical_nav_ime_composition_guard.md)
 - [261006_sync_outside_workbench_commit_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261006_sync_outside_workbench_commit_guard.md)
