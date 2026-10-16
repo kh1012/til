@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261015_entry_seen_account_ledger_owner_leakage_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261015_entry_seen_account_ledger_owner_leakage_guard.md)
 - [261011_space_publish_metadata_flag_vs_path.md](https://github.com/kh1012/til/blob/main/2026/10/261011_space_publish_metadata_flag_vs_path.md)
 - [261009_fast_mode_chat_skin_display_behavior_split.md](https://github.com/kh1012/til/blob/main/2026/10/261009_fast_mode_chat_skin_display_behavior_split.md)
 - [261008_e2e_selector_dom_hierarchy_mismatch.md](https://github.com/kh1012/til/blob/main/2026/10/261008_e2e_selector_dom_hierarchy_mismatch.md)
