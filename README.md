@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261022_basket_arrowup_stale_hasparent_race.md](https://github.com/kh1012/til/blob/main/2026/10/261022_basket_arrowup_stale_hasparent_race.md)
 - [261021_pack_app_keep_list_whats_new_exclusion.md](https://github.com/kh1012/til/blob/main/2026/10/261021_pack_app_keep_list_whats_new_exclusion.md)
 - [261020_electron_leveldb_lock_update_onboarding.md](https://github.com/kh1012/til/blob/main/2026/10/261020_electron_leveldb_lock_update_onboarding.md)
 - [261015_entry_seen_account_ledger_owner_leakage_guard.md](https://github.com/kh1012/til/blob/main/2026/10/261015_entry_seen_account_ledger_owner_leakage_guard.md)
