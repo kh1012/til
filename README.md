@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261028_route_sync_exception_crashes_node_server.md](https://github.com/kh1012/til/blob/main/2026/10/261028_route_sync_exception_crashes_node_server.md)
 - [261023_shared_decision_doc_concurrent_id_race.md](https://github.com/kh1012/til/blob/main/2026/10/261023_shared_decision_doc_concurrent_id_race.md)
 - [261022_basket_arrowup_stale_hasparent_race.md](https://github.com/kh1012/til/blob/main/2026/10/261022_basket_arrowup_stale_hasparent_race.md)
 - [261021_pack_app_keep_list_whats_new_exclusion.md](https://github.com/kh1012/til/blob/main/2026/10/261021_pack_app_keep_list_whats_new_exclusion.md)
