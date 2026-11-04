@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261103_build_time_literal_url_check_vs_runtime_csp.md](https://github.com/kh1012/til/blob/main/2026/11/261103_build_time_literal_url_check_vs_runtime_csp.md)
 - [261101_fsevents_breaks_after_atomic_write_under_load.md](https://github.com/kh1012/til/blob/main/2026/11/261101_fsevents_breaks_after_atomic_write_under_load.md)
 - [261029_gate_json_public_repo_unauthenticated_raw_access.md](https://github.com/kh1012/til/blob/main/2026/10/261029_gate_json_public_repo_unauthenticated_raw_access.md)
 - [261028_route_sync_exception_crashes_node_server.md](https://github.com/kh1012/til/blob/main/2026/10/261028_route_sync_exception_crashes_node_server.md)
