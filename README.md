@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261106_cdp_playwright_bypasses_macos_accessibility_permission_block.md](https://github.com/kh1012/til/blob/main/2026/11/261106_cdp_playwright_bypasses_macos_accessibility_permission_block.md)
 - [261105_node_vm_reuses_browser_script_as_server_module.md](https://github.com/kh1012/til/blob/main/2026/11/261105_node_vm_reuses_browser_script_as_server_module.md)
 - [261104_baseurl_host_restriction_removed_credential_query_blocked.md](https://github.com/kh1012/til/blob/main/2026/11/261104_baseurl_host_restriction_removed_credential_query_blocked.md)
 - [261103_build_time_literal_url_check_vs_runtime_csp.md](https://github.com/kh1012/til/blob/main/2026/11/261103_build_time_literal_url_check_vs_runtime_csp.md)
