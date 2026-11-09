@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261108_korean_ime_breaks_keyboardevent_key_shortcut_match.md](https://github.com/kh1012/til/blob/main/2026/11/261108_korean_ime_breaks_keyboardevent_key_shortcut_match.md)
 - [261107_http1_connection_pool_exhaustion_per_tab_streams.md](https://github.com/kh1012/til/blob/main/2026/11/261107_http1_connection_pool_exhaustion_per_tab_streams.md)
 - [261106_cdp_playwright_bypasses_macos_accessibility_permission_block.md](https://github.com/kh1012/til/blob/main/2026/11/261106_cdp_playwright_bypasses_macos_accessibility_permission_block.md)
 - [261105_node_vm_reuses_browser_script_as_server_module.md](https://github.com/kh1012/til/blob/main/2026/11/261105_node_vm_reuses_browser_script_as_server_module.md)
