@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261114_flow_diagram_loop_detection_edge_priority_order.md](https://github.com/kh1012/til/blob/main/2026/11/261114_flow_diagram_loop_detection_edge_priority_order.md)
 - [261113_lounge_viewer_double_path_check_refcounted_static_server.md](https://github.com/kh1012/til/blob/main/2026/11/261113_lounge_viewer_double_path_check_refcounted_static_server.md)
 - [261112_proxy_narrow_image_exception_for_osm_tiles.md](https://github.com/kh1012/til/blob/main/2026/11/261112_proxy_narrow_image_exception_for_osm_tiles.md)
 - [261111_electron_concurrent_extraction_race_shared_node_modules.md](https://github.com/kh1012/til/blob/main/2026/11/261111_electron_concurrent_extraction_race_shared_node_modules.md)
