@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261115_cat_tabs_overflow_scrollwidth_vs_last_child_boundary.md](https://github.com/kh1012/til/blob/main/2026/11/261115_cat_tabs_overflow_scrollwidth_vs_last_child_boundary.md)
 - [261114_flow_diagram_loop_detection_edge_priority_order.md](https://github.com/kh1012/til/blob/main/2026/11/261114_flow_diagram_loop_detection_edge_priority_order.md)
 - [261113_lounge_viewer_double_path_check_refcounted_static_server.md](https://github.com/kh1012/til/blob/main/2026/11/261113_lounge_viewer_double_path_check_refcounted_static_server.md)
 - [261112_proxy_narrow_image_exception_for_osm_tiles.md](https://github.com/kh1012/til/blob/main/2026/11/261112_proxy_narrow_image_exception_for_osm_tiles.md)
