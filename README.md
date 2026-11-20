@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261119_shadowdom_host_root_css_variable_scope_mismatch.md](https://github.com/kh1012/til/blob/main/2026/11/261119_shadowdom_host_root_css_variable_scope_mismatch.md)
 - [261117_composer_docs_e2e_test_regex_vs_shared_namenote_helper.md](https://github.com/kh1012/til/blob/main/2026/11/261117_composer_docs_e2e_test_regex_vs_shared_namenote_helper.md)
 - [261116_pr_land_vitest_worker_limit_cpu_slots.md](https://github.com/kh1012/til/blob/main/2026/11/261116_pr_land_vitest_worker_limit_cpu_slots.md)
 - [261115_cat_tabs_overflow_scrollwidth_vs_last_child_boundary.md](https://github.com/kh1012/til/blob/main/2026/11/261115_cat_tabs_overflow_scrollwidth_vs_last_child_boundary.md)
