@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261121_v_tab_dom_order_vs_visual_layout_split_for_tab_navigation.md](https://github.com/kh1012/til/blob/main/2026/11/261121_v_tab_dom_order_vs_visual_layout_split_for_tab_navigation.md)
 - [261120_build_version_synthetic_fallback_frozen_in_community_posts.md](https://github.com/kh1012/til/blob/main/2026/11/261120_build_version_synthetic_fallback_frozen_in_community_posts.md)
 - [261119_shadowdom_host_root_css_variable_scope_mismatch.md](https://github.com/kh1012/til/blob/main/2026/11/261119_shadowdom_host_root_css_variable_scope_mismatch.md)
 - [261117_composer_docs_e2e_test_regex_vs_shared_namenote_helper.md](https://github.com/kh1012/til/blob/main/2026/11/261117_composer_docs_e2e_test_regex_vs_shared_namenote_helper.md)
