@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261125_edit_lock_band_missing_sync_not_rereads_after_acquire.md](https://github.com/kh1012/til/blob/main/2026/11/261125_edit_lock_band_missing_sync_not_rereads_after_acquire.md)
 - [261124_uninstall_exit_animation_race_three_states.md](https://github.com/kh1012/til/blob/main/2026/11/261124_uninstall_exit_animation_race_three_states.md)
 - [261123_walkthrough_highlight_ring_validation_layer_depth_false_positive.md](https://github.com/kh1012/til/blob/main/2026/11/261123_walkthrough_highlight_ring_validation_layer_depth_false_positive.md)
 - [261121_v_tab_dom_order_vs_visual_layout_split_for_tab_navigation.md](https://github.com/kh1012/til/blob/main/2026/11/261121_v_tab_dom_order_vs_visual_layout_split_for_tab_navigation.md)
