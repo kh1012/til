@@ -46,6 +46,7 @@
 
 ## 2026
 
+- [261127_print_guard_fail_open_worker_fail_closed_frame.md](https://github.com/kh1012/til/blob/main/2026/11/261127_print_guard_fail_open_worker_fail_closed_frame.md)
 - [261126_agent_cursor_reload_flicker_scroll_doc_discrimination.md](https://github.com/kh1012/til/blob/main/2026/11/261126_agent_cursor_reload_flicker_scroll_doc_discrimination.md)
 - [261125_edit_lock_band_missing_sync_not_rereads_after_acquire.md](https://github.com/kh1012/til/blob/main/2026/11/261125_edit_lock_band_missing_sync_not_rereads_after_acquire.md)
 - [261124_uninstall_exit_animation_race_three_states.md](https://github.com/kh1012/til/blob/main/2026/11/261124_uninstall_exit_animation_race_three_states.md)
